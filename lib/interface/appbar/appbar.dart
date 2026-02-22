@@ -16,19 +16,23 @@ AppBar customAppBar(BuildContext context, String title, {bool haveDrawer = true}
             ),
           )
         : null,
-    title: Center(
-      child: Text(
-        title,
-        style: TextStyle(
-          color:
-              MediaQuery.of(context).platformBrightness == Brightness.dark
-                  ? Colors.black
-                  : Colors.white,
-          fontFamily: 'StoryScript',
-          fontWeight: FontWeight.bold
-        ),
+    centerTitle: true,
+    title: Text(
+      title,
+      style: TextStyle(
+        color:
+            MediaQuery.of(context).platformBrightness == Brightness.dark
+                ? Colors.black
+                : Colors.white,
+        fontFamily: 'StoryScript',
+        fontWeight: FontWeight.bold
       ),
     ),
+    actions: haveDrawer
+        ? [
+            SizedBox(width: 48), // Mesmo tamanho do leading para balancear
+          ]
+        : null,
     backgroundColor:
         MediaQuery.of(context).platformBrightness == Brightness.dark
             ? Colors.blue[200]
