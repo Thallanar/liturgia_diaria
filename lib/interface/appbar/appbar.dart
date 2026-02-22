@@ -28,11 +28,27 @@ AppBar customAppBar(BuildContext context, String title, {bool haveDrawer = true}
         fontWeight: FontWeight.bold
       ),
     ),
-    actions: haveDrawer
-        ? [
-            SizedBox(width: 48), // Mesmo tamanho do leading para balancear
-          ]
-        : null,
+    actions: [
+      PopupMenuButton<String>(
+        icon: Icon(
+          Icons.more_vert,
+          color: MediaQuery.of(context).platformBrightness == Brightness.dark
+              ? Colors.black
+              : Colors.white,
+        ),
+        onSelected: (value) {
+          if (value == 'sobre') {
+            Navigator.pushNamed(context, '/sobre');
+          }
+        },
+        itemBuilder: (context) => const [
+          PopupMenuItem(
+            value: 'sobre',
+            child: Text('Sobre'),
+          ),
+        ],
+      ),
+    ],
     backgroundColor:
         MediaQuery.of(context).platformBrightness == Brightness.dark
             ? Colors.blue[200]

@@ -1,0 +1,63 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      bump_type:
+        description: "Tipo de bump de versão"
+        required: true
+        default: "patch"
+        type: choice
+        options:
+          - patch   # correção de bug (1.0.0 → 1.0.1)
+          - minor   # nova funcionalidade (1.0.0 → 1.1.0)
+          - major   # mudança incompatível (1.0.0 → 2.0.0)
+
+jobs:
+  release:
+    name: Gerar release ${{ github.event.inputs.bump_type }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurar Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Bump de versão (${{ github.event.inputs.bump_type }})
+        id: bump
+        run: |
+          chmod +x scripts/bump_version.sh
+          ./scripts/bump_version.sh ${{ github.event.inputs.bump_type }}
+
+      - name: Ler nova versão
+        id: version
+        run: |
+          FULL=$(grep '^version:' pubspec.yaml | sed 's/version: //' | tr -d '[:space:]')
+          VER=$(echo "$FULL" | cut -d'+' -f1)
+          echo "version=${VER}" >> $GITHUB_OUTPUT
+          echo "tag=v${VER}" >> $GITHUB_OUTPUT
+
+      - name: Commit e tag
+        run: |
+          git add pubspec.yaml
+          git commit -m "chore: versão ${{ steps.version.outputs.version }}"
+          git tag ${{ steps.version.outputs.tag }}
+          git push origin HEAD
+          git push origin ${{ steps.version.outputs.tag }}
+
+      - name: Criar GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: "v${{ steps.version.outputs.version }}"
+          generate_release_notes: true
+          make_latest: true

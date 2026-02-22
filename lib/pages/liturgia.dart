@@ -18,22 +18,73 @@ class _LiturgiaPageState extends State<LiturgiaPage> {
   bool _isLoading = false;
   String? _errorMessage;
 
+  final DateTime _today = DateTime(
+    DateTime.now().year,
+    DateTime.now().month,
+    DateTime.now().day,
+  );
+  late DateTime _selectedDate;
+  final ScrollController _dateScrollController = ScrollController();
+
+  static const int _rangeDays = 7;
+  static const double _chipWidth = 56.0;
+  static const double _chipMargin = 4.0;
+
   @override
   void initState() {
     super.initState();
+    _selectedDate = _today;
     _carregarLiturgia();
+    WidgetsBinding.instance.addPostFrameCallback((_) => _scrollToSelected());
   }
 
-  Future<void> _carregarLiturgia() async {
+  @override
+  void dispose() {
+    _dateScrollController.dispose();
+    super.dispose();
+  }
+
+  bool _isSameDay(DateTime a, DateTime b) =>
+      a.year == b.year && a.month == b.month && a.day == b.day;
+
+  int get _selectedIndex =>
+      _rangeDays + _selectedDate.difference(_today).inDays;
+
+  void _scrollToSelected() {
+    if (!_dateScrollController.hasClients) return;
+    final screenWidth = MediaQuery.of(context).size.width;
+    final effectiveWidth = _chipWidth + _chipMargin * 2;
+    final offset = _selectedIndex * effectiveWidth
+        - screenWidth / 2
+        + effectiveWidth / 2;
+    _dateScrollController.jumpTo(
+      offset.clamp(0.0, _dateScrollController.position.maxScrollExtent),
+    );
+  }
+
+  Future<void> _carregarLiturgia({DateTime? data}) async {
+    final date = data ?? _selectedDate;
     setState(() {
       _isLoading = true;
       _errorMessage = null;
+      _selectedDate = date;
     });
 
-    final data = await _apiService.getLiturgiaDoDia();
-    if (data != null) {
+    final Map<String, dynamic>? result;
+    if (_isSameDay(date, _today)) {
+      result = await _apiService.getLiturgiaDoDia();
+    } else {
+      result = await _apiService.getLiturgiaData(
+        dia: date.day,
+        mes: date.month,
+        ano: date.year,
+      );
+    }
+
+    if (!mounted) return;
+    if (result != null) {
       setState(() {
-        _liturgia = LiturgiaModel.fromJson(data);
+        _liturgia = LiturgiaModel.fromJson(result!);
         _isLoading = false;
       });
     } else {
@@ -44,36 +95,117 @@ class _LiturgiaPageState extends State<LiturgiaPage> {
     }
   }
 
+  Widget _buildDateStrip() {
+    const weekdays = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
+    final isDark = MediaQuery.of(context).platformBrightness == Brightness.dark;
+    final primaryColor = isDark ? Colors.blue[300]! : Colors.green[700]!;
+    final totalItems = _rangeDays * 2 + 1;
+
+    return SizedBox(
+      height: 68,
+      child: ListView.builder(
+        controller: _dateScrollController,
+        scrollDirection: Axis.horizontal,
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
+        itemCount: totalItems,
+        itemBuilder: (context, index) {
+          final date = _today.add(Duration(days: index - _rangeDays));
+          final isSelected = _isSameDay(date, _selectedDate);
+          final isToday = _isSameDay(date, _today);
+
+          return GestureDetector(
+            onTap: () => _carregarLiturgia(data: date),
+            child: AnimatedContainer(
+              duration: const Duration(milliseconds: 180),
+              margin: EdgeInsets.symmetric(horizontal: _chipMargin),
+              width: _chipWidth,
+              decoration: BoxDecoration(
+                color: isSelected
+                    ? primaryColor
+                    : isToday
+                        ? primaryColor.withAlpha(30)
+                        : Colors.transparent,
+                borderRadius: BorderRadius.circular(12),
+                border: isToday && !isSelected
+                    ? Border.all(color: primaryColor, width: 1.5)
+                    : null,
+              ),
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text(
+                    weekdays[date.weekday % 7],
+                    style: TextStyle(
+                      fontSize: 11,
+                      color: isSelected
+                          ? Colors.white
+                          : isDark
+                              ? Colors.white60
+                              : Colors.black54,
+                    ),
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    '${date.day}',
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                      color: isSelected
+                          ? Colors.white
+                          : isDark
+                              ? Colors.white
+                              : Colors.black87,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          );
+        },
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
+    final Widget content;
+    if (_isLoading) {
+      content = const Center(child: CircularProgressIndicator());
+    } else if (_errorMessage != null) {
+      content = Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const Icon(Icons.error_outline, size: 60, color: Colors.red),
+            const SizedBox(height: 16),
+            Text(_errorMessage!),
+            const SizedBox(height: 16),
+            ElevatedButton(
+              onPressed: _carregarLiturgia,
+              child: const Text('Tentar Novamente'),
+            ),
+          ],
+        ),
+      );
+    } else if (_liturgia == null) {
+      content = const Center(child: Text('Nenhuma liturgia disponível'));
+    } else {
+      content = LiturgiaContent(
+        liturgia: _liturgia!,
+        onRefresh: () => _carregarLiturgia(),
+      );
+    }
+
     return Scaffold(
       drawer: const MyDrawer(),
       appBar: customAppBar(context, "Liturgia do Dia"),
-      body: _isLoading
-          ? const Center(child: CircularProgressIndicator())
-          : _errorMessage != null
-              ? Center(
-                  child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      const Icon(Icons.error_outline,
-                          size: 60, color: Colors.red),
-                      const SizedBox(height: 16),
-                      Text(_errorMessage!),
-                      const SizedBox(height: 16),
-                      ElevatedButton(
-                        onPressed: _carregarLiturgia,
-                        child: const Text('Tentar Novamente'),
-                      ),
-                    ],
-                  ),
-                )
-              : _liturgia == null
-                  ? const Center(child: Text('Nenhuma liturgia disponível'))
-                  : LiturgiaContent(
-                      liturgia: _liturgia!,
-                      onRefresh: _carregarLiturgia,
-                    ),
+      body: Column(
+        children: [
+          _buildDateStrip(),
+          const Divider(height: 1),
+          Expanded(child: content),
+        ],
+      ),
     );
   }
 }
