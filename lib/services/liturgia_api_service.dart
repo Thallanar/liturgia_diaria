@@ -11,10 +11,8 @@ class LiturgiaApiService {
     if (response.statusCode == 200) {
       return json.decode(response.body);
     } else if (response.statusCode == 404) {
-      print('Liturgia não encontrada para hoje');
       return null;
     } else {
-      print('Erro na API: ${response.statusCode}');
       return null;
     }
   }
@@ -38,10 +36,8 @@ class LiturgiaApiService {
     if (response.statusCode == 200) {
       return json.decode(response.body);
     } else if (response.statusCode == 404) {
-      print('Liturgia não encontrada para esta data');
       return null;
     } else {
-      print('Erro na API: ${response.statusCode}');
       return null;
     }
   }
@@ -50,7 +46,6 @@ class LiturgiaApiService {
   /// [periodo] - quantidade de dias (máximo 7)
   Future<List<Map<String, dynamic>>?> getLiturgiaPeriodo(int periodo) async {
     if (periodo > 7) {
-      print('Período máximo é 7 dias');
       return null;
     }
 
@@ -63,7 +58,6 @@ class LiturgiaApiService {
       }
       return [data];
     } else {
-      print('Erro na API: ${response.statusCode}');
       return null;
     }
   }
@@ -79,10 +73,8 @@ class LiturgiaApiService {
     if (response.statusCode == 200) {
       return json.decode(response.body);
     } else if (response.statusCode == 404) {
-      print('Liturgia não encontrada');
       return null;
     } else {
-      print('Erro na API: ${response.statusCode}');
       return null;
     }
   }

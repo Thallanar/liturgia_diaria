@@ -1,0 +1,962 @@
+{
+  "categorias": [
+    "Ato Penitencial",
+    "Hinos de Louvor",
+    "Oração dos Fiéis",
+    "Aclamações",
+    "Oração do Senhor",
+    "Cordeiro de Deus",
+    "Bençãos",
+    "Refrãos Contemplativos",
+    "Advento",
+    "Refrãos dos Salmos de Resposta",
+    "Natal"
+  ],
+  "musicas": [
+    {
+      "numero": 1,
+      "titulo": "SENHOR, TENDE PIEDADE",
+      "autor": "José Acácio Santana",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Senhor, tende piedade\ne perdoai a nossa culpa! (Bis)\n\n**Porque nós somos vosso povo\nque vem pedir vosso perdão!**\n\n2-Cristo, tende piedade\ne perdoai a nossa culpa! (Bis)\n\n3-Senhor, tende piedade\ne perdoai a nossa culpa! (Bis)"
+    },
+    {
+      "numero": 2,
+      "titulo": "SENHOR, QUE VIESTES SALVAR",
+      "autor": "Pe. José C. Silva",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Senhor, que viestes salvar\nos corações arrependidos.\n\n**Piedade, piedade, piedade de nós.** (Bis)\n\n2-Ó Cristo, que viestes chamar\nos pecadores humilhados.\n\n3-Senhor, que intercedeis por nós\njunto a Deus Pai que nos perdoa."
+    },
+    {
+      "numero": 3,
+      "titulo": "PELOS PECADOS, ERROS PASSADOS",
+      "autor": "Ir. Míria T. Kolling e D. Carlos A. Navarro",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Pelos pecados, erros passados;\npor divisões na tua Igreja, ó Jesus!\n\n**Senhor, piedade! Senhor, piedade,\nSenhor, piedade, piedade de nós!** (Bis)\n\n2-Quem não te aceita, quem te rejeita,\npode não crer por ver cristãos que vivem mal!\n\n3-Hoje, se a vida é tão ferida,\ndeve-se a culpa, indiferença dos cristãos!"
+    },
+    {
+      "numero": 4,
+      "titulo": "TU NOS AMA",
+      "autor": "Melissa da Rocha Fonseca",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Por todas as vezes que fugi do teu amor\ndescendo, fechando os olhos\npro mundo, Senhor!\n\n**Tem piedade, conduz os meus passos.\nTem piedade, Senhor, renova o meu viver.**\n\n2-Por não ter vivido minha fé, agredindo um irmão.\nPor ter lhe negado um simples pedaço de pão.\n\n3-Por ter sido treva em alguma situação.\nPor ter sido injusto, Senhor, eu te peço perdão.\n\n4-Mesmo que eu falhe,\neu sei que me amas, Senhor!\nSó Tu és caminho, és vida, nosso Salvador!\n\n**E nos perdoas e olhas por nós.\nSei que Tu nos amas, infinito é teu amor.**"
+    },
+    {
+      "numero": 5,
+      "titulo": "SENHOR, BOM PASTOR",
+      "autor": "Maria F. T. Miranda",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Senhor, bom Pastor, que conheceis\nas vossas ovelhas, tende piedade de nós!\n\n**Senhor, tende piedade de nós!**\n\n2-Cristo, que ides procurar a ovelha perdida,\ntende piedade de nós!\n\n**Cristo, tende piedade de nós!**\n\n3-Senhor, que nos levais às pastagens\neternas do céu, tende piedade de nós!\n\n**Senhor, tende piedade de nós!**"
+    },
+    {
+      "numero": 6,
+      "titulo": "EU CANTO ALEGRIA, SENHOR",
+      "autor": "Antonio Haddad",
+      "categoria": "Ato Penitencial",
+      "letra": "**Eu canto alegria, Senhor,\nde ser perdoado no amor.**\n\n1- Senhor, tende piedade de nós. (Bis)\n2- Cristo, tende piedade de nós. (Bis)\n3- Senhor, tende piedade de nós. (Bis)"
+    },
+    {
+      "numero": 7,
+      "titulo": "SENHOR DEUS PAI, PIEDADE",
+      "autor": "Pe. José C. Silva",
+      "categoria": "Ato Penitencial",
+      "letra": "1- Senhor Deus Pai, piedade de nós. (Bis)\n2- Senhor Jesus, piedade de nós. (Bis)\n3- Ó Deus de Amor, piedade de nós. (Bis)"
+    },
+    {
+      "numero": 8,
+      "titulo": "SENHOR, SERVO DE DEUS",
+      "autor": "Pe. Paulo Sérgio Soares",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Senhor, Servo de Deus, que libertastes\na nossa vida, tende piedade de nós!\n\n**Senhor, tende piedade de nós!**\n\n2-Ó Cristo, nosso irmão, que conheceis\nnossa fraqueza, tende piedade de nós!\n\n**Cristo, tende piedade de nós!**\n\n3-Senhor, Filho de Deus, que vos tornastes\nobediente, tende piedade de nós!\n\n**Senhor, tende piedade de nós!**"
+    },
+    {
+      "numero": 9,
+      "titulo": "PERDÃO, SENHOR",
+      "autor": "C. M. Batersby e Umberto Cantoni",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Se sofrimento te causei, Senhor;\nse a meu exemplo o fraco tropeçou;\nse em teus caminhos eu não quis andar.\nPerdão, Senhor!\n\n2-Se vão e fútil foi o meu falar;\nse a meu irmão não demonstrei amor;\nse ao sofredor não estendi a mão.\nPerdão, Senhor!\n\n3-Se indiferente foi o meu viver;\ntranquilo, calmo, sem lutar por ti;\ndevendo estar mui firme no labor.\nPerdão, Senhor!\n\n4-Escuta, ó Deus, a minha oração;\ne vem livrar-me de incertezas mil;\ntransforma este pobre pecador!\nAmém, Senhor!"
+    },
+    {
+      "numero": 10,
+      "titulo": "PERDÃO, SENHOR",
+      "autor": "Casimiro Vidal Nogueira",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Perdão, Senhor, pelas vezes que sufocamos\na vossa Palavra com nossas preocupações,\nqueremos pedir vosso perdão.\n\n**Senhor, tende piedade de nós!** (Bis)\n\n2-Perdão, Jesus, quando vossa luz ofuscamos,\nfazendo de vossa doutrina apenas lei,\nqueremos pedir vosso perdão.\n\n**Jesus, tende piedade de nós!** (Bis)\n\n3-Perdão, Senhor, quando nós nos desesperamos\ne não mais buscamos a vossa misericórdia,\nqueremos pedir vosso Perdão.\n\n**Senhor, tende piedade de nós!** (Bis)"
+    },
+    {
+      "numero": 11,
+      "titulo": "SENHOR, TENDE PIEDADE",
+      "autor": "Pe. Pedro Brito Guimarães",
+      "categoria": "Ato Penitencial",
+      "letra": "**Senhor, tende piedade de nós.** (Bis)\n\n1-Pelo irmão que não amei,\npelo mal que lhe causei, piedade. (Bis)\n\n**Ó Cristo, tende piedade de nós.** (Bis)\n\n2-Pelo bem que eu não fiz,\npela paz que eu não quis, piedade!\n\n**Senhor, tende piedade de nós.** (Bis)\n\n3-Pelo amor que sufoquei,\npela vida que matei, piedade!"
+    },
+    {
+      "numero": 12,
+      "titulo": "EU CONFESSO A DEUS",
+      "autor": "André Zamur",
+      "categoria": "Ato Penitencial",
+      "letra": "1-Eu confesso a Deus e a vós, irmãos,\ntantas vezes pequei, não fui fiel:\npensamentos e palavras, atitudes, omissões...\nPor minha culpa, tão grande culpa.\n\n**Senhor, piedade! Cristo, piedade!\nTende piedade, ó Senhor!** (Bis)"
+    },
+    {
+      "numero": 13,
+      "titulo": "PERDOAI NOSSOS PECADOS",
+      "autor": "Pe. Zezinho",
+      "categoria": "Ato Penitencial",
+      "letra": "**Perdoai nossos pecados** (3x) **ó Senhor!**\n\nVosso povo quer amar, vosso povo é santo\nvosso povo é santo, mas também é pecador!\n\nTende piedade de nós, piedade de nós,\nPiedade de nós, ó Senhor!"
+    },
+    {
+      "numero": 14,
+      "titulo": "PERDÃO, SENHOR",
+      "autor": "",
+      "categoria": "Ato Penitencial",
+      "letra": "**Perdão, Senhor, perdão por não ser santo,\nPerdão, Senhor, por ter pecado tanto.**\n\n1-A história é uma só da humanidade e minha,\na queda sempre existe pr'aquele que caminha.\nMas, há um Salvador que vem ressuscitar\naquele que da queda quiser se levantar.\n\n2-O senso do pecado estamos nós perdendo,\npara a eternidade estamos nós morrendo.\nQue adianta termos cruz em nossa companhia,\nse dela nós tiramos o Cristo noite e dia?\n\n3-A nossa vocação é para a santidade,\nausência de pecado, união na caridade.\nPassamos desta terra para o paraíso,\nsofrendo na esperança de Deus Pai, um sorriso."
+    },
+    {
+      "numero": 15,
+      "titulo": "GLÓRIA A DEUS, NOSSO PAI",
+      "autor": "Pe. José Raimundo Galvão",
+      "categoria": "Hinos de Louvor",
+      "letra": "1-Glória a Deus, nosso Pai, Senhor do universo,\nque rege o mundo e os homens conduz!\n\n**Glória a ti, Senhor, poder, honra e louvor!**\n\n2-Glória ao Filho de Deus, que deu sua vida,\npara remir os pecados do mundo!\n\n3-Glória ao Espírito Santo, que nos santifica,\nlevando a Igreja de volta ao Pai!"
+    },
+    {
+      "numero": 16,
+      "titulo": "GLÓRIA AO PAI",
+      "autor": "José Alves",
+      "categoria": "Hinos de Louvor",
+      "letra": "1- Glória ao Pai, dos homens, dos anjos,\ndo mundo o Criador!\n\n**Glória a Ti, Senhor!**\n\n2- Glória ao Cristo, Filho de Deus,\nnosso Irmão, Redentor!\n\n3- Glória a Deus, Espírito Santo\ne Santificador!"
+    },
+    {
+      "numero": 17,
+      "titulo": "GLÓRIA A DEUS NAS ALTURAS",
+      "autor": "Paulo Luiz Domingos",
+      "categoria": "Hinos de Louvor",
+      "letra": "**Glória a Deus nas alturas!** (Bis)\n\nA- E paz na terra aos homens\npor ele amados.\nB- Senhor Deus, Rei dos céus,\nDeus Pai todo-poderoso.\nA- Nós vos louvamos,\nB- nós vos bendizemos,\nA- nós vos adoramos,\nB- nós vos glorificamos.\nA- Nós vos damos graças\npor vossa imensa glória,\nB- Senhor, Jesus Cristo,\nFilho unigênito de Deus.\nA- Senhor Deus, Cordeiro de Deus,\nB- Filho de Deus Pai,\ntende piedade de nós!\nA- Vós que tirais o pecado do mundo,\nB- acolhei a nossa súplica\ne tende piedade de nós!\nA- Só vós sois o Santo,\nsó vós o Senhor,\nB- só vós o Altíssimo,\nJesus Cristo, Salvador!\nA- Com o Espírito Santo,\nna glória de Deus Pai:\nA+B- À Santíssima Trindade\ndemos glória para sempre. Amém!"
+    },
+    {
+      "numero": 18,
+      "titulo": "GLÓRIA, ALELUIA",
+      "autor": "Ft. Fabreti",
+      "categoria": "Hinos de Louvor",
+      "letra": "**Glória, glória, glória, aleluia!** (Bis)\n**Glória, glória, glória a Deus nos altos céus,\npaz na terra a todos nós.**\n\n1-Deus e Pai, nós vos louvamos,\nAdoramos, bendizemos, glória a Deus!\nDamos glória ao vosso nome,\nVossos dons agradecemos.\n\n2-Senhor nosso, Jesus Cristo, glória a Deus!\nUnigênito de Deus Pai,\nVós de Deus, Cordeiro Santo,\nNossas culpas perdoai.\n\n3-Vós que estais junto ao Pai, glória a Deus!\nComo nosso intercessor, glória a Deus!\nAtendei nossos pedidos, glória a Deus!\nAtendei nosso clamor.\n\n4-Vós somente sois o santo, glória a Deus!\nO Altíssimo Senhor, glória a Deus!\nCom o Espírito Divino, glória a Deus!\nDe Deus Pai no esplendor."
+    },
+    {
+      "numero": 19,
+      "titulo": "GLÓRIA A DEUS NAS ALTURAS",
+      "autor": "José Acácio Santana",
+      "categoria": "Hinos de Louvor",
+      "letra": "Solo: **Glória a Deus nas alturas,**\nCoro: e a paz na terra a todos que são por Ele amados.\nSolo: **Senhor Deus, Rei dos céus,**\nCoro: Deus Pai todo-poderoso, nós vos louvamos.\nSolo: **Nós vos bendizemos,**\nCoro: e nós vos adoramos, e vos glorificamos.\nSolo: **Nós vos damos graças**\nCoro: e nós vos damos graças por vossa glória.\nSolo: **Senhor Jesus Cristo,**\nCoro: Filho Unigênito,\nSolo: **Cordeiro de Deus,**\nCoro: Filho de Deus Pai.\nSolo: **Vós que tirais o pecado do mundo,**\nCoro: tende piedade de nós.\nSolo: **Vós que tirais o pecado do mundo,**\nCoro: acolhei nossa súplica.\nSolo: **Vós que estais à direita do Pai,**\nCoro: tende piedade de nós.\nSolo: **Porque só vós sois o Santo,**\nCoro: só vós o Senhor, só vós o Altíssimo,\nSolo: **com o Espírito Santo,**\nCoro: com o Espírito Santo, na glória de Deus Pai.\nSolo: **Amém!**\nCoro: Amém, amém, amém!"
+    },
+    {
+      "numero": 20,
+      "titulo": "GLÓRIA A DEUS NOS ALTOS CÉUS",
+      "autor": "Ir. Míria T. Kolling",
+      "categoria": "Hinos de Louvor",
+      "letra": "1-Glória a Deus nos altos céus!\nPaz na terra a seus amados.\nA vós louvam, Rei celeste,\nos que foram libertados.\n\n**Glória a Deus, lá nos céus,\ne paz aos seus. Amém!**\n\n2-Deus e Pai, nós vos louvamos,\nadoramos, bendizemos;\ndamos glória ao vosso nome,\nvossos dons agradecemos.\n\n3-Senhor nosso, Jesus Cristo,\nUnigênito do Pai.\nVós, de Deus Cordeiro Santo,\nnossas culpas perdoai!\n\n4-Vós que estais junto do Pai,\ncomo nosso intercessor,\natendei nossos pedidos,\nacolhei nosso clamor.\n\n5-Vós somente sois o Santo,\no Altíssimo, o Senhor,\ncom o Espírito Divino,\nde Deus Pai no esplendor!"
+    },
+    {
+      "numero": 21,
+      "titulo": "GLÓRIA A DEUS LÁ NAS ALTURAS",
+      "autor": "José Acácio Santana",
+      "categoria": "Hinos de Louvor",
+      "letra": "**Glória a Deus lá nas alturas\ne na terra paz aos homens,\nque são por Ele muito amados.**\n\n**Ó Senhor Deus, nós vos louvamos,\nvós bendizemos e adoramos.**\n\n2-E nós vos glorificamos\ne vos damos muitas graças,\npor vossa glória tão imensa.\n\n**Senhor Jesus, Filho Unigênito,\nCordeiro Santo de Deus Pai.**\n\n3-Vós podeis tirar o mal,\ntodo o pecado deste mundo.\nTende piedade de nós todos.\n\n**Vós que tirais nosso pecado,\nbem acolhei a nossa súplica.**\n\n4- Vós que estais eternamente\na direita de Deus Pai.\nTende piedade de nós todos.\n\n**Porque só vós é que sois Santo,\nporque só vós sois o Senhor.**\n\n5- E só Vós sois o Altíssimo,\nJesus, Senhor, o Cristo.\nSó Vós o Senhor Altíssimo.\n\n**Só vós com o Espírito Santo\nna glória de Deus. Amém**"
+    },
+    {
+      "numero": 22,
+      "titulo": "GLÓRIA AO DEUS DA LUZ",
+      "autor": "",
+      "categoria": "Hinos de Louvor",
+      "letra": "**Glória ao Pai, ao Deus da luz,\nglória ao seu Filho Jesus,\nglória ao Espírito Santo.\nGlória! Amém!** (Bis)\n\n1-Nós louvamos o Pai que criou este mundo\ne ao criá-lo deixou aos cuidados da gente.\nConfiou-nos valores que em nós colocou,\npor amor foi que ele esse mundo criou.\n\n2-Nós louvamos o Filho de Deus encarnado,\nque nasceu e viveu e morreu por amor.\nEle deixou para o mundo o mais doce legado\nque chamamos de Cristo, Senhor.\n\n3- Nós louvamos, também, o Espírito Santo,\nque do Pai e do Filho é o amor que nos vem.\nQue coloca ternura no riso e no pranto,\ne nos mostra o sentido que a vida contém."
+    },
+    {
+      "numero": 23,
+      "titulo": "GLÓRIA A DEUS NAS ALTURAS",
+      "autor": "Pe. Ney Brasil Pereira",
+      "categoria": "Hinos de Louvor",
+      "letra": "1-Glória a Deus nas alturas\ne paz na terra aos homens\npor ele amados.\n\n2-Senhor do Céu, Pai bondoso,\nvós damos graças,\nlouvamos por vossa glória.\n\n3-Senhor Jesus, irmão nosso,\nFilho de Deus unigênito,\nPalavra eterna do Pai.\n\n4-Da nossa páscoa, Cordeiro,\ntirais do mundo o pecado,\nPalavra eterna do Pai.\n\n5-Da nossa Páscoa Cordeiro,\ntirais do mundo o pecado,\ntende piedade de nós.\n\n6-Só vós, Senhor, sois o Santo,\nsomente vós o Altíssimo, Jesus Cristo.\n\n7-Com o Espírito Santo,\nna glória eterna de Deus Pai. Amém!"
+    },
+    {
+      "numero": 24,
+      "titulo": "GLÓRIA A DEUS NOS CÉUS",
+      "autor": "Ir. Míria T. Kolling",
+      "categoria": "Hinos de Louvor",
+      "letra": "**Glória, glória, glória a Deus nos céus!\nE na terra paz aos filhos seus!**\n\n1- Deus e Pai, nós vos louvamos, adoramos.\nNós vos bendizemos por vosso amor,\ndamos glória eterna ao vosso Santo Nome,\nvossos dons vos agradecemos, ó Pai!\n\n2- Senhor nosso, Jesus Cristo, Salvador,\nFilho Unigênito de Deus Pai,\nvós de Deus Cordeiro, vós, Cordeiro Santo,\nnossas muitas culpas, Senhor, perdoai.\n\n3-Vós que estais sentado junto de Deus Pai,\ncomo nosso irmão, nosso intercessor,\nacolhei, benigno, os nossos pedidos,\natendei, Senhor, este nosso clamor!\n\n4-Vós, Senhor Jesus, somente sois o Santo,\nde Deus o Altíssimo, o Senhor,\ncom o Espírito Divino,\nvós sois o mais alto, o maior!\n\nCom o Divino Amor\nde Deus Pai no esplendor!"
+    },
+    {
+      "numero": 25,
+      "titulo": "GLÓRIA DO POVO",
+      "autor": "Zé Vicente",
+      "categoria": "Hinos de Louvor",
+      "letra": "1-Glória a Deus nas alturas,\nna terra e no mar, (Bis)\ne paz seja entre os homens\nque desejam amar. (Bis)\nGlória sem fim será! (Bis)\n\n2-Glorificado seja\no Cristo Redentor, (Bis)\nnascido entre os pobres\no libertador. (Bis)\nGlória sem fim, Senhor! (Bis)\n\n3- Glória ao Divino Espírito,\nde graça e luz, (Bis)\nforça que nos sustenta,\nnos livra e conduz. (Bis)\nGlória sem fim, Jesus! (Bis)\n\n4-No céu cantam os anjos\ne na terra o povo, (Bis)\nunidos na esperança\nde um mundo novo. (Bis)\nGlória sem fim, te louvo! (Bis)\n\n5-Aleluia, aleluia, aleluia! (Bis)\nDe justiça e de glória\na terra se encherá. (Bis)\nAmém, aleluia. (Bis) Amém, aleluia! (Bis)"
+    },
+    {
+      "numero": 26,
+      "titulo": "GLÓRIA DAS COMUNIDADES I",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Hinos de Louvor",
+      "letra": "1- Glória a Deus nas alturas,\né o canto das criaturas!\nMares e matas se alegram,\ncampo e cidade celebram!\nÓ Rei dos céus e Senhor,\na Ti o nosso louvor!\nDeus, nosso Pai, te adoramos,\ntua glória proclamamos!\n\n**Glória, glória, glória te damos, Senhor!\nGlória, glória a Ti eterno louvor!**\n\n2- Paz para o povo sofrido,\né o grito do oprimido!\nSomos os teus preferidos,\nés nosso Pai tão querido!\nOuve o clamor do teu povo,\nvem, e nos livra de novo!\nA terra mal repartida\nclama por tua justiça!\n\n3- Glória a Jesus, nosso guia,\nFilho da Virgem Maria!\nVens para o meio dos pobres,\npra carregar nossas dores!\nPelo Espírito ungido,\nvens libertar os cativos!\nPor nós a vida entregaste\ne Senhor, ressuscitaste!\n\n4-De Deus o Filho amado,\nés o Cordeiro imolado!\nTiras do mundo a maldade,\nde nós, Senhor, piedade!\nTu és o Santo, Senhor,\nés o mais alto, o maior!\nCom o Divino Amor\nde Deus Pai no esplendor!"
+    },
+    {
+      "numero": 27,
+      "titulo": "GLÓRIA DAS COMUNIDADES II",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Hinos de Louvor",
+      "letra": "1-Glória a Deus no imenso azul do céu! (Bis)\nTão grande é teu amor por tudo que é teu! (Bis)\nPaz na terra, ao homem e à mulher! (Bis)\nNós somos filhos teus,\nteu grande bem querer! (Bis)\n\n**Glória, glória, glória, glória,\nglória te damos, Senhor!\nGlória, glória, glória, glória,\nvenha o teu Reino de amor!**\n\n2-Glória a Ti, Jesus, Filho de Deus! (Bis)\nVieste das alturas, morar junto dos teus. (Bis)\nBoa nova ao pobre anunciaste. (Bis)\nPor nós deste tua vida,\nSenhor, ressuscitaste! (Bis)\n\n3- Glória ao Santo Espírito de Deus! (Bis)\nMandado por Jesus, sobre os amigos seus. (Bis)\nSuavidade, és nossa comunhão! (Bis)\nÉs força em nossa luta,\nés nossa animação! (Bis)"
+    },
+    {
+      "numero": 28,
+      "titulo": "GLÓRIA A DEUS NO CÉU I",
+      "autor": "Pe. Ney Brasil Pereira",
+      "categoria": "Hinos de Louvor",
+      "letra": "**Glória a Deus no céu\ne na terra paz aos homens:\nGlória, aleluia!** (Bis)\n\n1-Glória ao Pai, o Criador,\nseu poder nos chamou à vida!\n\n2-Glória ao Filho Redentor,\nsua cruz reconciliou-nos!\n\n3-Glória ao Espírito de amor,\nsua graça é que nos renova!"
+    },
+    {
+      "numero": 29,
+      "titulo": "GLÓRIA A DEUS",
+      "autor": "Geraldo Carlos Silva",
+      "categoria": "Hinos de Louvor",
+      "letra": "**Glória a Deus, glória a Deus,\nglória a Deus nos céus,\ne paz aos homens na terra\nque trabalham para Deus.** (Bis)\n\n1- Glória ao Pai do céu\nque primeiro nos amou,\ne, em vista do seu Cristo,\nlivremente nos criou. (Bis)\n\n2- Glória a Jesus Cristo\nporque veio nos salvar,\ne o mistério de Deus Pai\nveio aos homens revelar. (Bis)\n\n3- Glória ao Espírito Santo\nporque é consolador,\nque ilumina a nossa vida\ne nos enche de amor. (Bis)"
+    },
+    {
+      "numero": 30,
+      "titulo": "ALELUIA, GLÓRIA AO SENHOR",
+      "autor": "",
+      "categoria": "Hinos de Louvor",
+      "letra": "**Aleluia,** (4x), **glória ao Senhor!** (Bis)\n\n1-Glória ao Senhor nosso Pai! (3x)\nGlória ao Senhor!\n\n2-Glória a Jesus Cristo Redentor! (3x)\nGlória ao Senhor!\n\n3-Glória ao Espírito Santo! (3x)\nGlória ao Senhor!\n\n4-Glória à Santíssima Trindade! (3x)\nGlória ao Senhor!"
+    },
+    {
+      "numero": 31,
+      "titulo": "RESPOSTA ÀS PRECES",
+      "autor": "",
+      "categoria": "Oração dos Fiéis",
+      "letra": "- Ouve, Deus de amor, o nosso clamor!\nOuve, Deus de amor, o nosso clamor!\n\n- Ouve, ó Pai Santo, esta oração,\nglória do teu Filho é a união!\n\n- Vossa Igreja vos pede, ó Pai!\n\n- Glória a ti, Senhor, graças e louvor!\n\n- Nós te entregamos, Senhor!\nNós te entregamos, Senhor!\n\n- Ó Senhor, escuta a nossa prece!\n\n- Ouve-nos, amado Senhor Jesus!\n\n- Bendito sejas, Senhor, nosso Deus!\n\n- Inclina, Senhor, teu ouvido,\nescuta nosso pedido!\n\n- Santifica teu povo Senhor!\n\n- Vem, vem, Senhor Jesus!\n\n- Vem, Senhor, nos salvar!\n\n- Vem, ó Filho de Maria!\n\n- Vem, ó Cristo, rei Messias!\n\n- Vem, raiar, sol da justiça!\n\n- Ilumina, Senhor, nossos passos!\n\n- Recria teu povo, Senhor!\n\n- Bendito seja aquele que vem!\n\n- Cristo, Filho de Deus vivo,\ntem pena de nós!\n\n- Senhor, escuta e responde!\n\n- Descanso eterno, dai-lhes, Senhor,\nda luz perpétua o resplendor!\n\n- Permanece conosco, Senhor!\n\n- Escuta-nos, Senhor da glória!\n\n- Escuta-nos, Senhor da história!\n\n- Na palma da tua mão,\nacolhe nossa oração!\n\n- Ouve o grito que sai do chão,\ndos oprimidos em oração!\n\n- Sol da justiça, ilumina teu povo!\n\n- Glória a Deus no mais alto dos céus!\n\n- Louvor e glória a Ti,\nJesus, Senhor da paz!"
+    },
+    {
+      "numero": 32,
+      "titulo": "SANTO, SENHOR DEUS...",
+      "autor": "Pe. Joaquim Ximenes Coutinho",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo, Senhor Deus do universo.\nO céu e a terra proclamam a vossa glória.\nHosana, hosana nas alturas!\nBendito O que vem em nome do Senhor.\nHosana, hosana nas alturas!"
+    },
+    {
+      "numero": 33,
+      "titulo": "SANTO É O SENHOR",
+      "autor": "Pe. José C. Silva",
+      "categoria": "Aclamações",
+      "letra": "**Santo, Santo,** Santo é o Senhor.\n**Deus do Universo.** Santo é o Senhor.\n**O céu e a terra.** Santo é o Senhor.\n**Proclamam vossa glória.** Santo é o Senhor.\n**Bendito o que vem.** Santo é o Senhor.\n**Em nome do Senhor.** Santo é o Senhor.\n**Hosana nas alturas.** Santo é o Senhor.\n**Hosana nas alturas.** Santo é o Senhor."
+    },
+    {
+      "numero": 34,
+      "titulo": "SANTO I",
+      "autor": "Pe. Lucas P. de Almeida",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo Senhor Deus do universo,\no céu e a terra proclamam a vossa glória.\nHosana, hosana, hosana, hosana,\nhosana nas alturas!\nBendito que vem, em nome do Senhor!\nHosana, hosana, hosana, hosana,\nhosana nas alturas!"
+    },
+    {
+      "numero": 35,
+      "titulo": "SANTO II",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo, é o Senhor! (Bis)\nÓ Deus do universo, Deus, nosso Criador! (Bis)\nNo céu, na terra, brilha o esplendor, (Bis)\nde tua imensa glória, ó Deus, nosso Senhor! (Bis)\nBendito seja aquele que vem! (Bis)\nAquele que vem vindo, em nome do Senhor! (Bis)\nHosana! Hosana! Hosana! Ó Salvador! (Bis)\nÓ vem, nos socorrer, no teu imenso amor! (Bis)\nÓ vem, nos libertar, no teu imenso amor! (Bis)"
+    },
+    {
+      "numero": 36,
+      "titulo": "SANTO III",
+      "autor": "Pe. Ney Brasil Pereira",
+      "categoria": "Aclamações",
+      "letra": "**Santo, Santo, Santo, sois vós,\nSenhor, nosso Deus!**\n\n1- O céu e a terra proclamam,\nproclama a vossa glória!\n\n2- Hosana, hosana, hosana,\nhosana nas alturas!\n\n3- Bendito o que vem,\nbendito em nome do Senhor!"
+    },
+    {
+      "numero": 37,
+      "titulo": "SANTO IV",
+      "autor": "Pe. Ney Brasil Pereira",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo, Senhor Deus do universo!\nO céu e a terra proclamam a vossa glória!\nVossa glória!\nHosana nas alturas! Hosana nas alturas!\nBendito o que vem em nome do Senhor!\nHosana nas alturas, nas alturas!\nHosana nas alturas!"
+    },
+    {
+      "numero": 38,
+      "titulo": "SANTO V",
+      "autor": "Pe. Ney Brasil Pereira",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo!\nSenhor, Deus do universo!\nO céu e a terra proclamam a vossa glória!\nHosana nas alturas!\nBendito, bendito o que vem,\nque vem em nome do Senhor!\nHosana nas alturas, nas alturas!\nHosana nas alturas!"
+    },
+    {
+      "numero": 39,
+      "titulo": "SANTO VI",
+      "autor": "Fr. Luiz Carlos Susin",
+      "categoria": "Aclamações",
+      "letra": "**Santo, Santo! Santo é o Senhor!\nDeus do universo! Santo é o Senhor!\nHosana, Hosana nas alturas! Santo é o Senhor!\nBendito o que vem em nome do Senhor!**\nSanto é o Senhor!\n**Santo, Santo! Santo é o Senhor!\nDeus do universo! Santo é o Senhor!**"
+    },
+    {
+      "numero": 40,
+      "titulo": "SANTO (missa dos passarinhos)",
+      "autor": "Pe. Geraldo L. Bastos",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo, Santo.\n**Santo é o Senhor!** Santo!\n**Deus do universo!** Santo!\n\n**Os céus e a terra estão cheios da vossa glória!** (Bis)\n**Hosana nas alturas, Hosana nas alturas!** (Bis)\n**Bendito o que vem em nome do Senhor!**\n**Hosana nas alturas, Hosana nas alturas!** (Bis)"
+    },
+    {
+      "numero": 41,
+      "titulo": "SANTO (missa da partilha)",
+      "autor": "Pe. José F. Campos",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo é o Senhor!\nNosso Deus e nosso Criador! (Bis)\nCéus e terra cantam teu louvor! (Bis)\nHosana ao nosso Deus, libertador! (Bis)\nBendito o que vem em nome do Senhor! (Bis)\nHosana, Hosana ao nosso Salvador! (Bis)"
+    },
+    {
+      "numero": 42,
+      "titulo": "SANTO DO AXÉ",
+      "autor": "Ir. Maria José (BA)",
+      "categoria": "Aclamações",
+      "letra": "Vamos cantar: **o Senhor é Santo!**\nVamos louvar: **o Senhor é Santo!**\n\n**Ô, ô! O Senhor é Santo!** (Bis)\n\nNo céu e na terra...**o Senhor é Santo!**\nNa força do Axé...**o Senhor é Santo!**\n\nBendito o que vem...**o Senhor é Santo!**\nHosana, amém... **o Senhor é Santo!**\n\nSanto é o Senhor...**o Senhor é Santo!**\nSanto é o Senhor...**o Senhor é Santo!**"
+    },
+    {
+      "numero": 43,
+      "titulo": "SANTO, SANTO É...",
+      "autor": "",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo é, Santo, Santo é,\nDeus do universo, ó Senhor Javé. (Bis)\nO céu e a terra vos proclamam glorioso.\nHosana, hosana nas alturas.\nBendito o que vem em nome do Senhor.\nHosana, hosana nas alturas.\nHosana, hosana ao Rei. (Bis)"
+    },
+    {
+      "numero": 44,
+      "titulo": "O SENHOR É SANTO!",
+      "autor": "",
+      "categoria": "Aclamações",
+      "letra": "**O Senhor é Santo!** (3x)\n\nO Senhor é nosso Deus; o Senhor é o nosso Pai,\nque o seu Reino de amor se estenda\nsobre a terra. O Senhor é Santo...\n\nBendito o que vem em nome do Senhor!\nBendito o que vem em nome do Senhor!\nHosana! Hosana! Hosana!"
+    },
+    {
+      "numero": 45,
+      "titulo": "SANTO, SANTO, O SENHOR",
+      "autor": "José Acácio Santana",
+      "categoria": "Aclamações",
+      "letra": "1- Santo, Santo, o Senhor,\nSenhor Deus do universo.\nO Senhor do universo.\n\n**Os céus e a terra vos proclamam\ne cantam toda a vossa glória.**\n\n2- Bendito é o que vem\nem nome de Deus, o Senhor.\nEm nome de Deus, o Senhor.\n\n**Hosana, cantem os homens:\nHosana! Glória! Aleluia!**"
+    },
+    {
+      "numero": 46,
+      "titulo": "SANTO, SENHOR DEUS...",
+      "autor": "",
+      "categoria": "Aclamações",
+      "letra": "1- Santo, Santo, Santo,\nSenhor Deus, Filho de Davi.\nSanto, Santo, Santo, bendito o\nque vem em nome do Senhor.\n\n**Hosanas nas alturas, hosana!\nÉ nosso dever dar-vos graças,\nhosana nas alturas, hosana,\né nossa salvação dar-vos glória!**\n\n2- Morrendo na cruz libertou-nos,\nressurgiu dos mortos nos deu vida.\nPor isso proclamamos sua glória,\nhosanas nas alturas, hosana. (Bis)"
+    },
+    {
+      "numero": 47,
+      "titulo": "SANTO, SANTO, SANTO",
+      "autor": "",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo é o Senhor.\nTerra e céu cantam em seu louvor,\nSanto, proclamam suas criaturas.\nHosana, hosana, hosana nas alturas.\nHosana cantemos, hosana louvemos,\ncom filial amor.\nBendito o que vem em nome do Criador.\nBendito é o que traz a paz\nem plenitude de amor. Hosana."
+    },
+    {
+      "numero": 48,
+      "titulo": "SANTO, SANTO, SANTO",
+      "autor": "André Zamur",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo, Senhor, Deus do universo!\nO céu e a terra proclamam vossa glória, ó Senhor!\nHosana, hosana, hosana! Hosana ao Senhor!\nHosana, hosana, hosana! Hosana ao Senhor!\nBendito aquele que vem, em nome do Senhor!\nHosana, hosana, hosana! Hosana nas alturas!\nHosana, hosana, hosana! Hosana ao Senhor!"
+    },
+    {
+      "numero": 49,
+      "titulo": "SANTO DE TODOS OS SANTOS",
+      "autor": "Josimar B. Bezerra",
+      "categoria": "Aclamações",
+      "letra": "**Santo, Santo, Santo de todos os santos,\nSanto és Tu, Senhor!**\n\n1- Todo o universo: o céu e a terra,\ntodo o seu povo proclama a tua glória.\n\n2- Hosana sempre, por toda a eternidade,\nhosana nas alturas, Cristo Redentor.\n\n3- Que venha a nós o Libertador\npara o povo oprimido, e escuta a nossa dor.\n\n4- Por tudo bendiguemos juntos o teu nome,\nhosana nas alturas, Cristo Redentor."
+    },
+    {
+      "numero": 50,
+      "titulo": "SANTO VII",
+      "autor": "",
+      "categoria": "Aclamações",
+      "letra": "Santo, Santo, Santo é o Senhor (Bis)\n\nSenhor Deus do universo\nO céu e a terra proclamam vossa glória\n**Hosana nas alturas!**\n\nBendito o que vem em nome do Senhor.\nHosana nas alturas!"
+    },
+    {
+      "numero": 51,
+      "titulo": "SANTO É O SENHOR, DEUS...",
+      "autor": "",
+      "categoria": "Aclamações",
+      "letra": "Santo é o Senhor, Deus do universo. (Bis)\nSanto é o Senhor, Santo é o Senhor.\nHosana nas alturas.\n\nO céu e a terra proclamam vossa glória. (Bis)\nSanto é o Senhor, Santo é o Senhor.\nHosana nas alturas.\n\nBendito o que vem em nome do Senhor.\nBendito o que vem em nome do Senhor.\nSanto é o Senhor, Santo é o Senhor.\nHosana nas alturas."
+    },
+    {
+      "numero": 52,
+      "titulo": "PAI NOSSO I",
+      "autor": "José Alves",
+      "categoria": "Oração do Senhor",
+      "letra": "Dir.: Cantemos com amor e confiança,\na oração que o Senhor nos ensinou:\n\nPai nosso que estais no céu,\nsantificado seja o vosso nome,\nvenha a nós o vosso reino;\nseja feita a vossa vontade,\nassim na terra como no céu.\nO pão nosso de cada dia nos dai hoje;\nperdoai-nos as nossas ofensas,\nassim como nós perdoamos\na quem nos tem ofendido,\ne não nos deixeis cair em tentação,\nmas livrai-nos do mal."
+    },
+    {
+      "numero": 53,
+      "titulo": "PAI NOSSO II",
+      "autor": "Folc. Música Religiosa",
+      "categoria": "Oração do Senhor",
+      "letra": "Dir.: Cantemos com amor e confiança,\na oração que o Senhor nos ensinou:\n\n**Pai nosso que estais nos céus,\nsantificado seja o vosso nome;**\n\nvenha a nós o vosso Reino,\nseja feita a vossa vontade,\nassim na terra como no céu.\nO pão nosso de cada dia nos dai hoje;\nperdoai-nos as nossas ofensas,\nassim como nós perdoamos\na quem nos tem ofendido,\ne não nos deixeis cair em tentação,\nmas livrai-nos do mal."
+    },
+    {
+      "numero": 54,
+      "titulo": "PAI NOSSO! III",
+      "autor": "José Acácio Santana",
+      "categoria": "Oração do Senhor",
+      "letra": "**Pai Nosso, Pai Nosso, Pai Nosso,\nPai Nosso que estais nos céus!**\n\n1- Santificado seja o vosso nome,\nvenha a nós o vosso Reino!\nSeja feita a vossa vontade,\nassim na terra como no céu!\n\n2- O pão nosso de cada dia nos dai hoje,\nperdoai as nossas ofensas,\nassim como nós perdoamos\na quem nos tem ofendido!\nNão nos deixeis cair em tentação,\nmas livrai-nos do mal!\n\n**Pai Nosso, Pai Nosso, Pai Nosso,\nPai Nosso que estais aqui!**"
+    },
+    {
+      "numero": 55,
+      "titulo": "PAI NOSSO ECUMÊNICO",
+      "autor": "Pe. Joaquim Ximenes Coutinho",
+      "categoria": "Oração do Senhor",
+      "letra": "Pai Nosso que estais nos céus.\nSantificado seja o teu nome,\nvenha o teu Reino.\nSeja feita a tua vontade,\nassim na terra como no céu.\nO pão nosso de cada dia nos dá hoje,\nperdoa-nos as nossas ofensas,\nassim como perdoamos\na quem nos tem ofendido.\nE não nos deixeis cair em tentação,\nmas livra-nos do mal,\npois teu é o Reino,\no poder e a glória para sempre. Amém."
+    },
+    {
+      "numero": 56,
+      "titulo": "CORDEIRO DE DEUS I",
+      "autor": "Ir. Lindbergh Pires",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus, que tirais o pecado do mundo,\n**tende piedade de nós!** (Bis)\n\nCordeiro de Deus, que tirais o pecado do mundo,\n**dai-nos a paz, dai-nos a paz,\ndai-nos a vossa paz!**"
+    },
+    {
+      "numero": 57,
+      "titulo": "CORDEIRO DE DEUS II",
+      "autor": "Pe. José C. Silva",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus, que tirais o pecado do mundo,\ntende piedade, tende piedade,\ntende piedade, piedade de nós! (Bis)\n\nCordeiro de Deus, que tirais o pecado do mundo,\ndai-nos a paz, dai-nos a paz!\nDai-nos a paz, Senhor, a vossa paz!"
+    },
+    {
+      "numero": 58,
+      "titulo": "CORDEIRO DE DEUS III",
+      "autor": "Pe. Lucas P. Almeida",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus, que tirais o pecado do mundo,\n**tende piedade de nós!** (Bis)\n\nCordeiro de Deus, que tirais o pecado do mundo,\n**tende piedade de nós!**"
+    },
+    {
+      "numero": 59,
+      "titulo": "CORDEIRO DE DEUS IV",
+      "autor": "Fr. Fabreti",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus, que tirais o pecado do mundo,\n**tende piedade, tende piedade,\ntende piedade de nós!**\n\nCordeiro de Deus, que tirais o pecado do mundo,\n**dai-nos a paz,** (3x) **Senhor, a vossa paz!**"
+    },
+    {
+      "numero": 60,
+      "titulo": "CORDEIRO DE DEUS V",
+      "autor": "Pe. Sílvio Milanez",
+      "categoria": "Cordeiro de Deus",
+      "letra": "**Cordeiro de Deus, que tirais o pecado do mundo,\ntende piedade de nós!** (Bis)\n\nCordeiro de Deus, que tirais o pecado do mundo,\ndai-nos a paz!\nDai-nos a paz!"
+    },
+    {
+      "numero": 61,
+      "titulo": "CORDEIRO DE DEUS VI",
+      "autor": "André Zamur",
+      "categoria": "Cordeiro de Deus",
+      "letra": "1- Cordeiro de Deus\nque tirais o pecado do mundo,\ntende piedade de nós,\npiedade de nós! (Bis)\n\n2- Cordeiro de Deus\nque tirais o pecado do mundo,\ndai-nos a paz, vossa paz, vossa paz,\nó Senhor, a vossa paz, ó Senhor!"
+    },
+    {
+      "numero": 62,
+      "titulo": "CORDEIRO",
+      "autor": "José Acácio Santana",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Ó Cordeiro, que tirais\ntodo o pecado deste mundo,\ntende piedade de nós todos!\n\n**Cordeiro por nós imolado,\ntende piedade de nós todos!** (Bis)\n\nÓ Cordeiro que tirais\ntodo o pecado deste mundo,\ndai-nos a paz, a vossa paz!\n\n**Cordeiro por nós imolado,\ndai-nos a paz, a vossa paz!**"
+    },
+    {
+      "numero": 63,
+      "titulo": "CORDEIRO DE DEUS VII",
+      "autor": "",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus, que tirais o pecado do mundo!\nTende piedade de nós! (Bis)\n\nCordeiro de Deus, que tirais o pecado do mundo!\nDai-nos a paz! Dai-nos a paz!\nDai-nos a paz, Senhor, a vossa paz!"
+    },
+    {
+      "numero": 64,
+      "titulo": "CORDEIRO DE DEUS VIII",
+      "autor": "Pe. Ney Brasil Pereira",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus que tirais o pecado do mundo.\nTende piedade de nós! (Bis)\n\nCordeiro de Deus que tirais o pecado do mundo.\nDai-nos a paz, dai-nos a paz, dai-nos a paz!"
+    },
+    {
+      "numero": 65,
+      "titulo": "CORDEIRO DE DEUS IX",
+      "autor": "Pe. Ney Brasil Pereira",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus\nque tirais o pecado do mundo,\ntende piedade. (3x) Piedade de nós! (Bis)\n\nCordeiro de Deus\nque tirais o pecado do mundo,\ndai-nos a paz, (3x) Senhor, a vossa paz! (Bis)"
+    },
+    {
+      "numero": 66,
+      "titulo": "CORDEIRO DE DEUS X",
+      "autor": "José Thomas e Fr. Fabreti",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus que tirais o pecado do mundo.\nTende piedade de nós. (Bis)\n\nCordeiro de Deus que tirais o pecado do mundo.\nDai-nos a paz!"
+    },
+    {
+      "numero": 67,
+      "titulo": "CORDEIRO (tom de súplica)",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus, que vences o mundo,\npiedade de nós, compaixão, Senhor! (Bis)\n\nCordeiro de Deus, que vences o mundo,\nó dá-nos a paz, tua paz, Senhor!"
+    },
+    {
+      "numero": 68,
+      "titulo": "CORDEIRO DE DEUS XI",
+      "autor": "José Thomas e Fr. Fabreti",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus\nque tirais o pecado do mundo,\ntende piedade de nós. (Bis)\n\nCordeiro de Deus\nque tirais o pecado do mundo,\ndai-nos a paz!"
+    },
+    {
+      "numero": 69,
+      "titulo": "CORDEIRO DE DEUS XII",
+      "autor": "Fr. Joel Postma",
+      "categoria": "Cordeiro de Deus",
+      "letra": "Cordeiro de Deus,\nque tirais o pecado do mundo.\nTende piedade de nós! (Bis)\n\nCordeiro de Deus,\nque tirais o pecado do mundo.\nDai-nos a paz!"
+    },
+    {
+      "numero": 70,
+      "titulo": "SAUDAÇÃO E BÊNÇÃO",
+      "autor": "Pe. José C. Silva",
+      "categoria": "Bençãos",
+      "letra": "Pr.: O Senhor esteja convosco.\nT.: Ele está no meio de nós.\n\nPr.: Abençoe-vos Deus todo-poderoso,\nPai e Filho e Espírito Santo!\nT.: Amém! Amém! Amém!\n\nPr.: Ide em paz e o Senhor vos acompanhe!\n(T. P. Aleluia, Aleluia!)\nT.: Amém! Amém! Amém!\n(Aleluia! Aleluia!)"
+    },
+    {
+      "numero": 71,
+      "titulo": "SAUDAÇÃO E BÊNÇÃO",
+      "autor": "Folc. Música Religiosa",
+      "categoria": "Bençãos",
+      "letra": "Pr.: O Senhor esteja convosco!\nT.: Ele está no meio de nós.\n\nPr.: Abençoe-vos Deus todo-poderoso.\nPai e Filho e Espírito Santo!\nAss.: Amém!\n\nPr.: Ide em paz e o Senhor vos acompanhe!\nT.: Graças a Deus!"
+    },
+    {
+      "numero": 72,
+      "titulo": "A BÊNÇÃO DO DEUS DE SARA,...",
+      "autor": "D. R.",
+      "categoria": "Bençãos",
+      "letra": "A bênção do Deus de Sara, Abraão e Agar,\na bênção do Filho nascido de Maria,\na bênção do Espírito Santo de amor,\nque cuida com carinho,\nqual mãe cuida da gente,\nesteja sobre todos nós. Amém!"
+    },
+    {
+      "numero": 73,
+      "titulo": "TUA BÊNÇÃO, SENHOR",
+      "autor": "Pe. Geraldo L. Bastos",
+      "categoria": "Bençãos",
+      "letra": "Tua bênção, Senhor, nos ilumine,\ntua face, Senhor, sobre nós brilhe.\nTeu poder encerra paz e retidão,\nbênçãos e frutos por todo este chão. (Bis)"
+    },
+    {
+      "numero": 74,
+      "titulo": "QUE DEUS NOS DÊ A SUA GRAÇA",
+      "autor": "Pe. José Weber",
+      "categoria": "Bençãos",
+      "letra": "**Que Deus nos dê a sua graça e sua bênção.**\n\nQue Deus nos dê a sua graça e sua bênção,\ne sua face resplandeça sobre nós!\nQue na terra se conheça o seu caminho,\ne a sua salvação por entre os povos."
+    },
+    {
+      "numero": 75,
+      "titulo": "MEDITAÇÕES",
+      "autor": "",
+      "categoria": "Refrãos Contemplativos",
+      "letra": "1- Senhor, nós te esperamos,\nSenhor, não tardes mais!\nSenhor, nós te esperamos,\nvem logo, vem nos salvar!\n\n2- Vigiai, unidos a mim,\ncomigo orando, sempre orando!\n\n3- Vem vindo a libertação!\nErgam a cabeça, levantem do chão!\n\n4- Nossos olhos ganharão nova luz\ncom a tua presença, Jesus!\n\n5- Quem cochila desperte,\no que dorme levante!\nPreparemos a estrada\ndo Senhor caminhante!\n\n6- Mudarei o sertão em açude,\nterra seca em olho d'água.\nAssim falou o Senhor das andanças,\npra dar a seu povo esperança! (Bis)\n\n7- Vai mudar a secura,\ndo chão duro brotará água pura. (Bis)\n\n8- Sentinela, em que ponto está a noite? (Bis)\nA luz brilhará nas trevas\ne esta noite resplandecerá como o dia!\n\n9- Teu sol não se apagará,\ntua lua não terá minguante,\nporque o Senhor será tua luz,\nó povo que Deus conduz!\n\n10- Quando a noite chegar,\nvem, Jesus, me guardar!\nVem, protege meu sono\ncom teu santo olhar! (Bis)\n\n11- Abra a porta, abra a janela,\nvenha ver quem é que vem! (Bis)\n**É Jesus que vem chegando,\nele é o nosso bem!** (Bis)\n\n12- Confiemo-nos ao Senhor,\nele vem e não demora.\nConfiemo-nos ao Senhor, aleluia.\n\n13- Após espera tão longa\nirrompe a noite que é dia,\naté palácios se apagam\ndiante da estrebaria. (Bis)\n\n14- Do tronco da vida, mesmo ferida,\nnasce uma flor, rindo da dor, ô, ô, ô...\n\n15- O sol nasceu, é novo dia.\nBendito seja Deus, quanta alegria!\n\n16- Alegrai-vos todos,\nalegrai-vos no Senhor, aleluia.\n\n17- **Jesus, meu tesouro, mais rico que o ouro.**\n- Jesus, alegria, que vem todo dia.\n- Minha garantia no último dia.\n\n18- Deus te salve, casa santa,\nonde Deus fez a morada.\nOnde mora o cálix bento\ne a hóstia consagrada! (Bis)\n\n19- Em tua paz, Senhor,\ndeixa ir agora o teu servo,\ncomo prometeu tua Palavra, ir em paz.\n\n20- Cristo hoje, Cristo ontem,\nCristo para sempre. Amém.\n\n21- O nosso olhar se dirige a Jesus,\no nosso olhar se mantém no Senhor.\n\n22- És Jesus, o Messias, Salvador,\no Filho do Deus vivo! Aleluia!\n\n23- Bendiguemos ao Senhor,\npois é eterno é seu amor.\n\n24- Confiemo-nos ao Senhor,\nele é justo e tão bondoso.\nConfiemo-nos ao Senhor, aleluia.\n\n25- Onde reina amor, fraterno amor,\nonde reina amor, Deus aí está.\n\n26- Dá-nos um coração grande para amar,\ndá-nos um coração forte para lutar!\n\n27- Quero cantar tua força, Senhor.\n**Aclamar pela manhã o teu amor.**\nSim, nosso Deus é rochedo fiel.\n**Aclamar pela manhã o teu amor.**\nComo são grandes tuas obras, Senhor.\n**Aclamar pela manhã o teu amor.**\nTodos os povos te adoram, ó Deus.\n**Aclamar pela manhã o teu amor.**\nQuero cantar tua força, Senhor.\n**Aclamar pela manhã o teu amor.**\n\n28- Seja bendito quem chega,\nseja bendito quem chega,\ntrazendo paz, trazendo paz,\ntrazendo a paz do Senhor!\n\n29- Desde a manhã preparo uma oferenda\ne fico, Senhor, à espera do teu sinal! (Bis)\n\n30- Irmãs, vinde à oração,\nirmãos, vinde à oração. (Ó, Ó, Ó)\n\n31- Não te perturbes, nada te espante,\nquem com Deus anda, nada lhe falta!\nNão te perturbes, nada te espante,\nbasta Deus, só Deus!\n\n32- Shemá, Israel, Adonai elohenu,\nAdonai ehad! (Bis)\nShemá, Israel, Adonai elohenu,\nAdonai ehad! (Bis)\nShemá, Israel, o Senhor é nosso Deus,\num é o Senhor! (Bis)\nEscuta, Israel, o Senhor é nosso Deus,\num é o Senhor! (Bis)\n\n33- Mesmo as trevas, não são trevas\npara Ti, a noite é luminosa como o dia.\n\n34- Ó luz do Senhor, que vem sobre a terra:\ninunda meu ser, permanece em nós.\n\n35- Vem a noite de mansinho estender o véu.\nDurma em paz, não tenha medo,\nDeus está no céu. (Bis)\n\n36- Deus vos salve, Deus! Deus vos salve, Deus!\nDeus salve esta casa onde mora Deus,\n...vos salve Deus,\nDeus vos salve Deus, Deus vos salve Deus!\nDeus salve as pessoas onde mora Deus,\n...vos salve Deus,\nDeus vos salve Deus, Deus vos salve Deus!\nDeus salve o universo onde mora Deus,\n...vos salve Deus.\n\n37- Indo e vindo, trevas e luz:\ntudo é graça, Deus nos conduz!\n\n38- Misericordioso é Deus,\nsempre, sempre o cantarei!\n\n39- Senhor Jesus Cristo, piedade de nós.\nSenhor Jesus Cristo, piedade de nós.\n\n40- Deus santo, Deus santo e forte,\nDeus santo e imortal, piedade de nós!\n\n41- Firme, de pé, junto da cruz, estava Maria,\nmãe de Jesus, estava Maria, mãe de Jesus.\n\n42- Ressuscitou de verdade, aleluia, aleluia!\nCristo Jesus ressuscitou, aleluia, aleluia!\n\n43- Vem, ó Santo Espírito..., vem, ó Santo Espírito!\n\n44- Ó Divino, vem te apossar da nação,\nque deseja teu ensino,\nque te entrega o coração.\nÓ Divino, na dor consolação!\n\n45- Louvarei a Deus, seu nome bendizendo!\nLouvarei a Deus, a vida nos conduz.\n\n46- Vem, Divino Espírito,\ndo teu amor o fogo acende!\nVem, Divino Espírito,\nvem, Divino Espírito.\n\n47- Suba, Senhor, nosso louvor,\ncomo fumaça perfumada.\nAdoração, no silêncio espalhada.\n\n48- Entoai um novo canto,\ncantai glória ao Senhor.\nCantai glória ao Senhor."
+    },
+    {
+      "numero": 76,
+      "titulo": "DAS ALTURAS ORVALHEM...",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "**Das alturas orvalhem os céus\ne as nuvens, que chovam justiça,\nque a terra se abra ao amor\ne germine o Deus Salvador.**\n\n1- Foste amigo, antigamente,\ndesta terra que amaste,\ndeste povo que escolheste;\nsua sorte melhoraste,\nperdoaste seus pecados,\ntua raiva acalmaste.\n\n2- Vem, de novo, restaurar-nos!\nSempre irado estarás,\nindignado contra nós?\nE a vida não darás?\nSalvação e alegria,\noutra vez, não nos trarás?\n\n3- Escutemos suas palavras,\né de paz que vai falar;\npaz ao povo, a seus fiéis,\na quem dele se achegar.\nEstá perto a salvação\ne a glória vai voltar.\n\n4- Eis: Amor, Fidelidade\nvão unidos se encontrar,\nbem assim, Justiça e Paz\nvão beijar-se e se abraçar.\nVai brotar Fidelidade\ne Justiça se mostrar.\n\n5- E virão os benefícios\ndo Senhor a abençoar;\ne os frutos do amor\ndesta terra vão brotar,\na Justiça diante dele\ne a Paz o seguirá.\n\nRefrão 2 (1º domingo do Advento)\nVigiai, vigiai, eu vos digo,\nnão sabeis qual o dia, ou a hora.\nVigiai, vigiai, eu repito,\neis que vem o Senhor em sua glória!\n\nRefrão 3 (3º e 4º domingo do Advento)\nAlegrai-vos, irmãos, no Senhor,\nsem cessar, eu repito, alegrai-vos;\nveja o mundo a vossa bondade,\nperto está o Senhor, em verdade.\n\nRefrão 4 (Páscoa)\nAlegrai-vos, irmãos, no Senhor,\nsem cessar, eu repito, alegrai-vos;\nveja o mundo a vossa bondade.\nRessurgiu o Senhor em verdade.\n\nRefrão 5 (Tempo Comum)\nAos caminhos de Deus vamos todos,\nterra boa de se caminhar.\nDeus-conosco, seu nome mais lindo\nentre irmãos vamos todos cantar.\n\nRefrão 6 (Cultos e orações pela paz)\nOuçam todos os povos da terra,\né de paz que o Senhor vai falar,\nDeus conosço, seu nome mais lindo,\nmeus irmãos e irmãs a cantar."
+    },
+    {
+      "numero": 77,
+      "titulo": "EIS QUE DE LONGE",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "**Eis que de longe vem o Senhor,\npara as nações do mundo julgar.\nE os corações alegres 'starão\nComo nu'a noite em festa a cantar!**\n\n1- Do Egito uma vinha\narrancaste com amor;\ncom cuidado a replantaste,\nfundas raízes lançou\ne por sobre a terra toda\nsua sombra se espalhou...\n\n2- Mas, Senhor, o que fizeste?...\nPor que teu amor se agasta?...\nDerrubaste as suas cercas,\ntodo mundo agora passa,\ncada um invade e rouba,\nquebra os ramos e devasta!\n\n3- Senhor Deus, ouve, escuta:\ndo teu povo és o Pastor.\nDo teu trono de bondade\nfaze-nos ver o esplendor,\nteu poder desperta e vem,\nvem salvar-nos, ó Senhor!\n\n4- Até quando estarás\nindignado contra a gente?...\nAté quando o pão da dor\ncomerá amargamente\neste povo, que tornaste\ndos vizinhos o joguete?...\n\n5- E a vinha que plantaste,\njá não vens mais visitar?...\nO cuidado de tuas mãos\njá nem queres mais olhar?...\nDesgalhada, murcha e seca,\ndesse jeito vais deixar?...\n\n6- Sobre o povo que criaste\ntua mão forte estende,\ntua face sobre nós,\nresplender faze clemente,\nrestaurar-nos vem, Senhor,\nvem salvar a tua gente!\n\nRefrão 2 (Quaresma)\nÓ vem, Senhor, e olha tua vinha\nque tua mão plantou e cuidou.\nÉs nosso guia, ouve o clamor,\nsomos teu povo, és o pastor!\n\nRefrão 3 (Tempo Pascal)\n**A tua face brilhe, Senhor,\ne teu olhar pra nós amanheça;\ntua santa mão, estende, Senhor,\ne tua glória em nós resplandeça!**"
+    },
+    {
+      "numero": 78,
+      "titulo": "OS CÉUS E A TERRA SÃO TEUS",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "**Os céus e a terra são teus,\nde justiça é teu trono, ó Deus!**\n\n1- A meu eleito Davi eu jurei e prometi:\nque eterna é minha bondade,\nmeu amor, minha fidelidade!\n\nA meu eleito Davi eu jurei e prometi:\ntua raça nunca morrerá\ne teu trono eterno será!\n\n2- A meu eleito Davi eu jurei e prometi:\nmeu eleito entre o povo encontrei,\ncom minha santa unção consagrei!\n\nA meu eleito Davi eu jurei e prometi:\nminha mão sempre o defenderá\ne meu braço o fortalecerá!\n\n3- A meu eleito Davi eu jurei e prometi:\no inimigo não o há de vencer,\nseus contrários farei perecer!\n\nA meu eleito Davi eu jurei e prometi:\nseu poder sobre montes e vales\ncrescerá, sobre rios e mares!\n\n4- A meu eleito Davi eu jurei e prometi:\nés meu Pai, me dirá meu eleito,\nés meu Deus protetor, meu rochedo!\n\nA meu eleito Davi eu jurei e prometi:\nprimogênito meu o farei,\nrei dos reis o constituirei.\n\n5- A meu eleito Davi eu jurei e prometi:\nque pra sempre é minha aliança\ne os anos eternos alcança!\n\nA meu eleito Davi eu jurei e prometi:\nsua raça jamais morrerá\ne seu trono eterno será!"
+    },
+    {
+      "numero": 79,
+      "titulo": "EXULTAI, CANTANDO ALEGRES",
+      "autor": "Fr. Joel Postma",
+      "categoria": "Advento",
+      "letra": "**Exultai cantando alegres,\nporque é grande em vosso meio\no Deus Santo de Israel!**\n\n1- Eis o Deus, meu Salvador,\neu confio e nada temo;\no Senhor é minha força,\nmeu louvor e salvação.\n\n2- Com alegria bebereis\nno manancial da salvação\ne direis naquele dia:\n\"Dai louvores ao Senhor!\"\n\n3- Invocai seu santo nome,\nanunciai suas maravilhas;\nentre os povos proclamai\nque seu nome é o mais sublime.\n\n4- Louvai cantando ao nosso Deus\nque fez prodígios e portentos;\npublicai em toda a terra\nsuas grandes maravilhas!\n\n5- Exultai cantando alegres,\nhabitantes de Sião,\nporque é grande em vosso meio\no Deus Santo de Israel!"
+    },
+    {
+      "numero": 80,
+      "titulo": "COMO O SOL NASCE...",
+      "autor": "A. Trevisan e Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "Art.: **Como o sol nasce da aurora,\nde Maria nascerá,\naquele que a terra seca\nem jardim converterá.\nÓ Belém, abre teus braços\nao Pastor que a ti virá.\nEmanuel, Deus conosco,\nvem ao nosso mundo, vem!**\n\n1- Ouve, ó Pastor do teu povo,\nvem do alto céu onde estás!\n\n2- Vem, teu rebanho salvar,\nmostra o amor que lhe tens!\n\n3- Salva e protege esta vinha,\nfoi tua mão que a plantou!\n\n4- Salva e confirma este Eleito,\nEle que é nosso Pastor!"
+    },
+    {
+      "numero": 81,
+      "titulo": "VISITA!, SENHOR...",
+      "autor": "Fr. Fabreti",
+      "categoria": "Advento",
+      "letra": "Convertei-nos, Senhor Deus, do mundo inteiro,\nsobre nós a vossa face iluminai!\nSó voltardes para nós seremos salvos,\nvós que sobre os anjos todos assentais.\n\n**Arrancastes do Egito esta videira,\ne expulsastes muita gente pra plantá-la;\ndiante dela preparastes terra boa,\nvinde logo, Senhor,\nvinde depressa pra salvá-la!**\n\n2-Suas raízes se espalharam pela terra\ne os seus ramos recobriam o sertão;\nlevantai-vos, vinde logo em nosso auxílio,\nlibertai-nos pela vossa compaixão.\n\n3-Seus rebentos atingiram as montanhas,\nverdes mares, longos rios e palmeiras;\nvem logo, Senhor Deus do universo,\nvisita a vossa vinha e protegei-a!\n\n4-Vossa mão foi quem plantou esta videira,\nvinde cuidar deste rebanho que firmaste;\ne aqueles, que a cortarem e queimarem,\nvão sofrer ante o furor de vossa face.\n\n5- Até quando ficaremos esperando?\nEscutai a oração do vosso povo!\nVou livrar-nos e banir da nossa história,\ntanto pranto amargo e copioso.\n\n6- Estendei a vossa mão ao \"protegido\",\nque escolhestes para vós, o \"Filho do Homem\",\ne jamais vos deixaremos, Senhor santo,\ndai-nos vida e louvaremos vosso nome."
+    },
+    {
+      "numero": 82,
+      "titulo": "ISAÍAS",
+      "autor": "Pe. Luzinho",
+      "categoria": "Advento",
+      "letra": "1- É tempo do meu advento,\nda vinda surpresa no meio de vós.\nPor isso conclamo profetas\nque ao longo da terra elevem sua voz.\nÉ tempo de um novo Isaías,\nque atento aos rumos da vida,\nindique um caminho novo\ne a libertação para todo o meu povo!\n\n**Isaías, Isaías! Anuncia o Messias\ne consola o povo meu.** (Bis)\n\n2- Que eleve sua voz contra todos aqueles\nque levam uma vida malograda.\nMas aja com grande verdade,\nque implante a justiça e aos pobres console.\nQue anuncie uma nova esperança\ne um Deus que é sempre presença.\nQue a todos os homens conteste\ne no meio dos povos se torne um profeta.\n\n3- Eu quero que todos os homens\ncaminhem segundo os critérios de Deus.\nEu quero uma tal comunhão,\nque eu possa chamá-los de filhos meus.\nEu quero as crianças sorrindo\nsempre ao ver o novo mundo surgindo.\nEu quero esperança maior a aqueles\nque lutam por um mundo melhor.\n\nVai, enche a terra de esperança, ó, ó,\npois junto a ti, junto a ti sempre estou, ó, ó, ó.\nLeva a tua fé e se sinai, ó, ó,\npois, Emanuel, Emanuel já vai voltar, ó, ó, ó.\nCrê no meu amor, ele é constante, ó, ó,\npois junto a ti, junto a ti sempre estou, ó, ó, ó.\n\n4- É tempo de ter mais justiça,\nnão hipocrisia no meio de vós.\nDe gente que goste de gente\ne espere contente o Messias voltar.\nÉ tempo de ter solução\npara um mundo que segue pro mal,\npor isso você é escolhido\ne este povo sofrido será meu sinal."
+    },
+    {
+      "numero": 83,
+      "titulo": "JERUSALÉM, POVO DE DEUS",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "**Jerusalém, Povo de Deus, Igreja Santa,\nlevanta e vai, sobe as montanhas,\nergue o olhar:\nlá no Oriente desponta o sol da alegria,\nque vem de Deus, aos filhos teus:\neis o teu dia!**\n\n1- Louva, Jerusalém,\nlouva o Senhor teu Deus;\ntuas portas reforçou,\ne os teus abençoou;\nte cumulou de paz,\ne o pão do céu te traz!\n\n2- Sua Palavra envia,\ncorre veloz sua voz.\nDa névoa desce o véu,\nunindo a terra e o céu;\nas nuvens se desmancham,\no vento sopra e avança.\n\n3- Ao povo revelou\npalavras de amor.\nA sua lei nos deu\ne o mandamento seu;\ncom ninguém fez assim,\namou até o fim.\n\n4- A Virgem, mãe será,\num filho à luz dará,\nseu nome, Emanuel:\n\"conosco Deus\" do céu;\no mal desprezará,\no bem escolherá.\n\n5- Ao Pai do céu louvemos\ne ao que vem, cantemos;\ne ao Divino, então,\na nossa louvação!\nOs Três, que são um Deus,\nexalte o Povo seu!\n\nRefrão 2 (Nossa Senhora)\nAve Maria, cheia de graça, mãe do Senhor.\n\"Bendita és tu entre as mulheres\", diz Isabel.\nTodas as gentes celebram hoje o teu louvor;\nTu és na terra a virgem bela que encanta o céu!\n\nRefrão 3 (2º Domingo do Advento)\nOuço uma voz, lá no deserto a gritar:\numa estrada preparai para o Senhor,\nendireitai os seus caminhos, pois ele vem\ne logo mais avistareis o Salvador."
+    },
+    {
+      "numero": 84,
+      "titulo": "O SENHOR DARÁ...",
+      "autor": "Fr. Joel Postma",
+      "categoria": "Advento",
+      "letra": "**O Senhor dará a sua bênção\ne nossa terra, o seu fruto,\ne nossa terra, o seu fruto.**\n\n1- Favorecestes, ó Senhor, a vossa terra,\nlibertastes os cativos de Jacó. (Coro)\nPerdoastes o pecado ao vosso povo,\nencobristes toda falta cometida. (Coro)\n\n2- Renovai-nos, nosso Deus e Salvador,\nesquecei a vossa mágoa contra nós! (Coro)\nQuero ouvir o que o Senhor irá falar:\né a paz que ele vai anunciar. (Coro)\n\n3- Está perto a salvação dos que o temem,\ne a glória habitará em nossa terra. (Coro)\nO Senhor nos dará tudo o que é bom,\ne a nossa terra nos dará sua colheitas. (Coro)"
+    },
+    {
+      "numero": 85,
+      "titulo": "SALVE MARIA",
+      "autor": "Pe. Jocy Rodrigues",
+      "categoria": "Advento",
+      "letra": "Salve, Maria,\ntu és a estrela virginal de Nazaré,\nés a mais bela entre as mulheres,\ncheia de graça, Esposa de José.\n\n1- O anjo Gabriel foi enviado\nà vilazinha de Nazaré,\npara dar um recado lá do céu,\nàquela moça que casara com José.\n\n2- Maria, ao ver o anjo, se espantou\ne o anjo disse nada temer,\npois ela tem cartaz, lá pelo céu\ne o próprio Deus, um dia, dela irá nascer.\n\n3- Maria acha difícil esta mensagem\ne o anjo afirma que Deus fará\ne sua prima Isabel, embora velha,\nvai ter um filho que João se chamará.\n\n4- Maria fez-se escrava do Senhor\ne apresentou-se para a missão,\nde ser a Imaculada Mãe de Deus,\ncontribuindo para nossa Salvação."
+    },
+    {
+      "numero": 86,
+      "titulo": "VEM, SENHOR!",
+      "autor": "",
+      "categoria": "Advento",
+      "letra": "**Vem, Senhor! Vem, Senhor!\nVem libertar o teu povo!**\n\n1- Apesar da fome aguda\ne da sorte que não muda,\nsem casa pra morar\ne sem onde se empregar.\nEste povo ainda\nespera a tua vinda. (Bis)\n\n2-Apesar de oprimido\npor lutar sem ver sentido.\nFazer sem ter querido,\npor morrer sem ter vivido.\nEste povo ainda\nespera a tua vinda. (Bis)\n\n3-Apesar do ateísmo\ne das marcas do egoísmo,\nda cobiça e da ambição,\ne de tanta solidão.\nEste povo ainda\nespera a tua vinda. (Bis)"
+    },
+    {
+      "numero": 87,
+      "titulo": "O SENHOR VIRÁ",
+      "autor": "",
+      "categoria": "Advento",
+      "letra": "1- Tempo de esperança e de viver,\ntempo de ser novo e renascer...\n\n**Eis que uma criança já se anuncia\ndentro de Maria o céu conosco está.\nTempo de esperança e de alegria,\nvamos esperar que o Senhor virá,\no Libertador já vem!** (Bis)\n\n2- Como esperava o povo Hebreu,\no Senhor do povo não se esqueceu.\n\n3- Hoje o povo espera de coração,\npor um mundo novo, bem mais irmão."
+    },
+    {
+      "numero": 88,
+      "titulo": "VEM, Ó SENHOR",
+      "autor": "Pe. José Weber e Maria F. Oliveira",
+      "categoria": "Advento",
+      "letra": "**Vem, ó Senhor, com o teu povo caminhar,\nteu Corpo e Sangue,\nvida e força vem nos dar.** (Bis)\n\n1- A Boa-Nova proclamai com alegria.\nDeus vem a nós, Ele nos salva e nos recria.\nE o deserto vai florir e se alegrar,\nda terra seca, flores, frutos vão brotar. (Bis)\n\n2- Eis nosso Deus, e Ele vem para salvar.\nCom sua força vamos juntos caminhar,\ne construir um mundo novo e libertado\ndo egoísmo, da injustiça e do pecado. (Bis)\n\n3- Uma voz clama no deserto com vigor:\n\"Preparai, hoje, os caminhos do Senhor\".\nTirai do mundo a violência e a ambição,\nque não nos deixam\nver no outro nosso irmão. (Bis)\n\n4- Distribuí os vossos bens com igualdade,\nfazei na terra germinar fraternidade.\nO Deus da vida marchará com o seu povo,\ne homens novos viverão num mundo novo. (Bis)\n\n5- Vem, ó Senhor, ouve o clamor da tua gente,\nque luta e sofre, porém crê que estás presente.\nNão abandones os teus filhos, Deus fiel,\nporque teu nome é Deus-conosco: Emanuel. (Bis)"
+    },
+    {
+      "numero": 89,
+      "titulo": "VEM, SENHOR, VEM NOS SALVAR!",
+      "autor": "Pe. José Weber",
+      "categoria": "Advento",
+      "letra": "**Vem, Senhor! Vem, nos salvar!\nCom teu povo vem caminhar!**\n\n1- Senhor, vem salvar teu povo\nDas trevas, da escuridão.\nSó Tu és nossa esperança,\nés nossa libertação.\n\n2- Contigo o deserto é fértil,\na terra se abre em flor.\nDa rocha brota água viva,\nda terra nasce esplendor.\n\n3- Tu marchas à nossa frente,\nés força, caminho e luz.\nVem, logo, salvar teu povo,\nnão tardes, Senhor Jesus!\n\n1- A chuva molhou a terra,\no homem plantou um grão;\na planta deu flor e frutos,\ndo trigo se fez o pão.\n\n2- O homem plantou videiras,\ncercou-as com seu carinho.\nDa vinha brotou a uva,\nda uva se fez o vinho.\n\n3- Os frutos de nossa terra\ne as lutas dos filhos teus,\nserão, pela tua graça,\npão vivo, que vem dos céus.\n\n4- Recebe, Pai, nossas vidas,\nunidas ao pão e vinho,\ne vem conduzir teu povo,\nguiando-o no teu caminho."
+    },
+    {
+      "numero": 90,
+      "titulo": "JESUS CRISTO, ONTEM E HOJE",
+      "autor": "Fr. Joel Postma",
+      "categoria": "Advento",
+      "letra": "**Jesus Cristo, ontem e hoje,\ne por toda a eternidade!** (Bis)\n\n1- Quão amável, ó Senhor, é vossa casa,\nquanto a amo, Senhor Deus do universo! (Coro)\nMinha alma desfalece de saudades\ne anseia pelos átrios do Senhor! (Coro)\n\n2- Felizes os que habitam vossa casa;\npara sempre haverão de vos louvar! (Coro)\nNa verdade, um só dia em vosso templo\nvale mais do que milhares fora dele! (Coro)\n\n3- O Senhor nunca recusa bem algum\nàqueles que caminham na justiça. (Coro)\nÓ Senhor, Deus poderoso do universo,\nfeliz quem põe em vós sua esperança! (Coro)"
+    },
+    {
+      "numero": 91,
+      "titulo": "A NOSSA OFERTA APRESENTAMOS",
+      "autor": "Maria F. Oliveira e Fr. Joel Postma",
+      "categoria": "Advento",
+      "letra": "**A nossa oferta apresentamos no altar\ne te pedimos: Vem, Senhor, nos libertar!**"
+    },
+    {
+      "numero": 92,
+      "titulo": "OUVE-SE NA TERRA UM GRITO",
+      "autor": "Pe. Raimundo Galvão",
+      "categoria": "Advento",
+      "letra": "**Ouve-se na terra um grito,\ndo povo um grande clamor:\n\"Senhor, abre os céus,\nque as nuvens chovam o Salvador!\"**\n\n1- É um só canto de amor e esperança,\nque a terra mãe, germinando, contém:\nA Ti, Senhor, nós clamamos;\nVem, Senhor Jesus, vem!\n\n2- Mesmo se as guerras destroem a terra,\npondo em perigo a paz e o bem,\nque a nossa voz não se canse:\nVem, Senhor Jesus, vem!\n\n3- Vem reunir hoje as tuas Igrejas,\na tua prece, rezamos, também.\nO nosso amor sempre espere:\nVem, Senhor Jesus, vem!\n\n4- Para que o mundo descubra a mensagem,\na Boa-Nova da paz e do bem,\ntemos a mesma linguagem:\nVem, Senhor Jesus, vem!"
+    },
+    {
+      "numero": 93,
+      "titulo": "Ó VEM A NÓS, EMANUEL",
+      "autor": "Melodia do Século XVII",
+      "categoria": "Advento",
+      "letra": "1- Ó vem! Ó vem, Emanuel!\nÉs esperança de Israel!\nPromessa de libertação,\nvem nos trazer a salvação!\n\n2- Ó vem, aqui nos animar,\nas nossas vidas despertar.\nDispersas as sombras do temor,\nvem, pra teu povo, ó Salvador!\n\n3- Ó vem, Rebento de Jessé,\ne aos filhos teus renova a fé.\nQue possam o mal dominar\ne sobre a morte triunfar!\n\n4- Vem, esperança das nações,\nhabita em nossos corações.\nToda discórdia se desfaz,\nTu és, Senhor, o rei da paz!"
+    },
+    {
+      "numero": 94,
+      "titulo": "TERRA DA LIBERTAÇÃO",
+      "autor": "Manoelão",
+      "categoria": "Advento",
+      "letra": "Ant.: **Da terra tão seca já brotou uma flor,\nalagando prantos e gritos de dor.\nCorrentes se quebram, as cercas tombando,\numa nova era da história brotando.**\n\n**Dentro da noite escura,\nda terra dura do povo meu,\nnasce uma luz, radiante no peito,\nerrante já amanheceu.**\n\n1- Mãos se entrelaçam na luta por pão,\nrepartindo a terra da libertação,\nregada com sangue, com prantos de dor,\nsilêncios se quebram, num grito de amor.\n\n2- Ninguém para as águas que correm pro mar,\nnem mata a semente de um novo raiar,\nque brota do povo, em corrente de união,\ncultivando a terra da libertação."
+    },
+    {
+      "numero": 95,
+      "titulo": "QUANDO VIRÁ, SENHOR",
+      "autor": "Música Tradicional",
+      "categoria": "Advento",
+      "letra": "1- Quando virá, Senhor, o dia,\nem que apareça o Salvador,\ne se efetue a profecia:\n\"Nasceu do mundo o Redentor?\"\n\n**Orvalhai lá do alto, ó céus,\ne as nuvens chovam o justo!**\n\n2- Aquele dia prometido\na antiga fé de nossos pais.\nDia em que o mal será banido,\nmudando em risos nossos ais!\n\n3- Quando felizes o veremos,\nno firmamento despontar\ne a espargir clarão supremo,\nda terra as trevas dispersar?\n\n4- Filha de reis, ó virgem pura,\nsai da modesta posição;\nem ti, embora criatura,\nde Deus se fez a encarnação!"
+    },
+    {
+      "numero": 96,
+      "titulo": "Ó VEM, SENHOR",
+      "autor": "Zé Vicente",
+      "categoria": "Advento",
+      "letra": "**Ó vem, Senhor, não tardes mais,\nvem saciar nossa sede de paz!**\n\n1- Ó vem, como chega a brisa do vento\ntrazendo aos pobres justiça e bom tempo!\n\n2- Ó vem, como chega a chuva no chão\ntrazendo fartura de vida e de pão!\n\n3- Ó vem, como chega a luz que faltou,\nsó tua Palavra nos salva, Senhor!\n\n4- Ó vem, como chega a carta querida,\nbendito carteiro do reino da vida!\n\n5- Ó vem, como chega o filho esperado,\ncaminha conosco, Jesus, bem-amado!\n\n6- Ó vem, como chega o libertador\ndas mãos do inimigo, nos salva, Senhor!"
+    },
+    {
+      "numero": 97,
+      "titulo": "EU QUERO VER",
+      "autor": "Zé Vicente",
+      "categoria": "Advento",
+      "letra": "**Eu quero ver, eu quero ver acontecer.\nO sonho bom, sonho de muitos acontecer.**\n\n1- Nascendo da noite escura\na manhã futura trazendo amor.\nNo vento da madrugada\na paz tão sonhada, brotando em flor.\nNos braços da estrela guia\na alegria, chegando da dor.\n\n2- Na sombra verde e florida,\ncrianças em vida, brincando de irmãos.\nNo rosto da juventude\nsorriso e virtude, virando canção.\nAlegre e feliz camponês,\nentrando de vez na posse do chão.\n\n3- Um sorriso em cada rosto,\numa flor em cada mão.\nA certeza na estrada,\no amor no coração.\nE uma semente nova, escondida,\nem cada palmo deste chão.\n\n4- Sonho que se sonha só,\npode ser pura ilusão.\nSonho que se sonha juntos,\né sinal de solução.\nEntão, vamos sonhar, companheiros,\nsonhar ligeiro, sonhar em mutirão."
+    },
+    {
+      "numero": 98,
+      "titulo": "O SENHOR VIRÁ LIBERTAR",
+      "autor": "Maria F. Oliveira e Fr. Joel Postma",
+      "categoria": "Advento",
+      "letra": "**O Senhor virá libertar o seu povo\ne do mundo velho nascerá o novo.**\n\n1- Se, quem tem sede, procura a fonte,\nnós procuramos o teu altar.\nVem, ó Deus vivo, salvar teu povo,\nvem, sem demora nos libertar!\n\n2- Teu povo, outrora, sofreu no Egito\ntodas as dores da servidão.\nTeu novo povo, também, sofrido,\nde Ti espera libertação.\n\n3- Marchaste, outrora, com teus amigos\ne os conduziste com segurança.\nVem, novamente, marchar conosco,\nSenhor da história, nossa esperança.\n\n4- Vem, sem demora, guiar teu povo,\npelos caminhos de cada dia.\nSe estás conosco, a noite é clara\ne até do pranto nasce a alegria."
+    },
+    {
+      "numero": 99,
+      "titulo": "TEM LUGAR NA MESA SANTA",
+      "autor": "",
+      "categoria": "Advento",
+      "letra": "1- Tem lugar na mesa santa,\nmeu irmão pode chegar!\nA mãe terra dá fartura,\nvamos todos partilhar.\nNosso Pai, Senhor de tudo,\né o dono deste chão,\nnós, seus filhos, repartimos\nesta terra de irmãos.\n\n**O fruto bendito da Virgem Maria,\nno fruto da terra, se faz nosso pão.\nNo Corpo de Cristo, formamos um corpo,\nnós damos a vida, na terra de irmão.**\n\n2- Novo céu e nova terra,\ndiz o Pai: \"Eu vou criar!\"\nO que foi, será esquecido,\ne a alegria vai reinar!\nNunca mais uma criança\ndesnutrida vai morrer:\ntodo velho de cem anos\nserá jovem, irá viver!\n\n3- Nunca mais irão construir\ne não ter onde morar;\nplantar roça para outros,\nsem poder se alimentar.\nEles vão construir casas,\npara nelas habitar;\nplantarão roças, pomares,\npra comer e se fartar!\n\n4- O meu povo vai gozar\ndo trabalho de suas mãos.\nVão criar filhos pra vida,\nvou ouvir sua oração.\nO leão vai comer grama,\ncom o boi, sem atacar,\ne o lobo com o cordeiro,\nna amizade vão pastar!\n\n5- Vou plantar vocês na terra,\nnesta terra que lhes dei,\nnunca mais vão arrancá-los:\n\"Eu, seu Pai, já lhes falei.\"\nÉ bendito o povo manso,\nfoi Jesus quem proclamou,\npois vão conquistar a terra,\nonde o Reino germinou."
+    },
+    {
+      "numero": 100,
+      "titulo": "PÃO E VINHO APRESENTAMOS",
+      "autor": "Maria F. Oliveira e Pe. José Weber",
+      "categoria": "Advento",
+      "letra": "**Pão e vinho apresentamos com louvor\ne pedimos o teu Reino, vem, Senhor!**\n\n1- Pão e vinho repartidos entre irmãos\nsão o laço de unidade do teu povo.\nNossas vidas são também pequenos grãos,\nque contigo, vão formar o homem novo.\n\n2- Eis, aqui, a nossa luta dia-a-dia\npra ganhar com o trabalho o nosso pão.\nMas, Tu és, o alimento da alegria,\nque nos pobres fortalece o coração.\n\n3- Vem, Senhor, vem caminhar a nossa frente,\nvem, conosco, toda a terra transformar.\nE no mundo, libertado e transparente,\nos irmãos à mesma mesa vão sentar."
+    },
+    {
+      "numero": 101,
+      "titulo": "LUZ NA FRENTE, PAZ NA GUIA",
+      "autor": "Zé Vicente",
+      "categoria": "Advento",
+      "letra": "1- Luz na frente, paz na guia,\nDeus que me alumia, vem!\nGuiar os passos da gente\npor caminhos novos, vem!\nNos defende dos perigos,\ndos inimigos da vida.\nVem, ó Deus, nos socorrer,\nnos defender, vem!\n\n2- Luz na frente, paz na estrada,\nDeus da caminhada, vem!\nLevantar quem está caído,\ncurar os feridos, vem!\nVem refazer a justiça\nàs multidões esmagadas.\nTransforma os nossos destinos,\nsomos divinos também!\n\n3- Luz na frente, paz na história,\nó Deus da memória, vem!\nRefaz em nossa lembrança\na tua aliança, vem!\nO Evangelho de teu Filho\nganhe novo brilho na gente.\nTua graça nos perdoe,\nnos abençoe. Amém!"
+    },
+    {
+      "numero": 102,
+      "titulo": "AS QUATRO VELAS DO ADVENTO",
+      "autor": "Pe. Sérgio J. S. e Glória Viana",
+      "categoria": "Advento",
+      "letra": "1- Uma vela se acende no caminho a iluminar,\npreparemos nossa casa,\ne Jesus quem vai chegar.\n\n**No advento, a tua vinda\nnós queremos preparar.\nVem, Senhor, que é teu Natal,\nvem, nascer em nosso lar.** (Bis)\n\n2- A segunda vela acesa, vem, a vida clarear.\nRejeitemos, pois, as trevas,\né Jesus quem vai chegar.\n\n3- Na terceira vela temos a esperança a crepitar.\nNossa fé se reanima,\né Jesus quem vai chegar.\n\n4- Eis a luz da quarta vela:\num clarão se faz brilhar.\nBate forte o coração,\né Jesus quem vai chegar."
+    },
+    {
+      "numero": 103,
+      "titulo": "TEU CORPO E SANGUE TU NOS DESTE",
+      "autor": "Maria F. Oliveira e Fr. Joel Postma",
+      "categoria": "Advento",
+      "letra": "1- Os clamores do teu povo\na Ti sobem, ó Senhor!\nVem, depressa, vem salvar-nos,\nés um Deus Libertador.\n\n**Teu Corpo e Sangue\nTu nos deste, em refeição.\nVem com teu povo\nconstruir a comunhão!**\n\n2- Esperamos tua vinda,\nVem, matar a nossa sede,\ncomo a água que dá vida.\n\n3- Esperamos tua vinda,\ncomo a noite espera o dia.\nFaze a luz brilhar nas trevas,\nnossos passos alumia.\n\n4- Esperamos tua vinda,\ncomo a jovem pelo amado.\nManifesta tua glória,\ncria um povo libertado.\n\n5- Esperamos tua vinda,\ncomo a flor espera o orvalho,\ncomo aquele que caminha,\nbusca à sombra um agasalho.\n\n6- Os teus pobres, teus amados,\na Ti volvem seu olhar.\nDa maldade e egoísmo\nvem, Senhor, nos libertar.\n\n7- Tudo aquilo que desune,\ntua vinda vem quebrar.\nO leão e o cordeiro,\ncomo irmãos, vão habitar.\n\n8- E na terra renovada\nhomens novos cantarão,\nteu amor e tua graça\npara a nova geração."
+    },
+    {
+      "numero": 104,
+      "titulo": "QUEREMOS SER UMA AMÉRICA...",
+      "autor": "",
+      "categoria": "Advento",
+      "letra": "**Vem, Senhor Jesus, vem conosco caminhar.\nIlumina nossa luta, pra teu povo libertar!** (Bis)\n\n1- Somos Povo de Deus, na América Latina\na caminho da libertação.\nQueremos ser, Senhor,\numa América de irmãos. (Bis)\n\n2- Nesta América ferida há muita gente sofrida,\nsem saúde e alimentação,\nqueremos lutar para partilhar o pão. (Bis)\n\n3- A favela da cidade, é calvário permanente,\num retrato da grande América.\nQueremos organizar\npara este povo ressuscitar. (Bis)"
+    },
+    {
+      "numero": 105,
+      "titulo": "FELIZES OS POBRES REUNIDOS",
+      "autor": "Jorge de Porto das Folhas",
+      "categoria": "Advento",
+      "letra": "**Felizes os pobres reunidos,\nno Reino do Pai vão habitar.\nEu vi um novo céu e nova terra\naonde os que lutam vão morar!**\n\n1- Cristo veio à terra pra todos terem vida\ne quem nele crer, não se perderá.\nPassa o céu, junto com a terra,\nmas sua Palavra não passará.\n\n2- Feliz aquele que pede, que implora,\nque sofre, que chora, que vive cansado.\nNão desanime, tenha alegria,\nporque vem o dia de ser consolado.\n\n3- Não sei pra que renome e nobreza,\nciência e riqueza, sem amor, sem crer.\nA vida é um sonho, um véu de fumaça,\nde repente passa, a gente não vê.\n\n4- Cristo, ainda hoje, sofre em nosso meio,\nporque Ele veio oposto ao nobre;\npois vemos a sua bem-aventurança\nencher de esperança o coração que é pobre."
+    },
+    {
+      "numero": 106,
+      "titulo": "ENVIA TUA PALAVRA",
+      "autor": "Pe. José Weber",
+      "categoria": "Advento",
+      "letra": "**Envia tua Palavra, Palavra de salvação,\nque vem trazer esperança,\naos pobres libertação.**\n\n1- Tua palavra é vida,\né como a chuva que cai,\nque torna o solo fecundo\ne faz nascer a semente.\nÉ água viva da fonte,\nque faz florir o deserto,\né uma luz no horizonte,\né novo caminho aberto.\n\n2- Ela nos vem no silêncio,\nno coração de quem crê,\nno coração dos humildes\nque vivem por teu poder.\nAos fracos ela dá força,\naos pobres sabedoria,\ne se tornou nossa carne:\nnasceu da virgem Maria.\n\n3- Vem visitar nossa terra,\nó sol de um novo dia,\nque rompe a treva da noite\ne todo mundo alumia!\nOlha teu povo cativo,\ntem pena de sua dor,\nporque és nossa esperança,\nés nosso Deus Salvador."
+    },
+    {
+      "numero": 107,
+      "titulo": "NÃO DEIXE A LAMPARINA APAGAR",
+      "autor": "Pe. Jocy Rodrigues",
+      "categoria": "Advento",
+      "letra": "**Não deixe a lamparina apagar,** (Bis)\n**pois ninguém sabe a hora\nem que o noivo vai chegar.** (Bis)\n\n1- Saíram pr'um casamento\ndez muito lindas meninas\nlevando na mão, acesas,\ndez formosas lamparinas.\nSaíram pra fazer parte\nde um cortejo bem solene,\nmas cinco eram descuidadas,\nnão levaram querosene.\n\n2- A noite foi escurecendo,\no noivo foi demorando,\nas meninas se sentaram\npela estrada cochilando.\nMas, quando deu meia-noite,\nsó se ouviu foi a zuada:\nera o noivo que chegava\ne a lamparina apagada...\n\n3- As meninas cuidadosas\nacenderam as lamparinas,\nmas não tinha querosene\nnas das cinco outras meninas.\nPediram emprestado as outras,\ne chorando suplicaram,\nmas, com medo que faltasse,\nprontamente lhes negaram.\n\n4- Com a lamparina apagada,\nsem saber o que fazer,\nforam bater pelas portas,\nprocurando quem vender.\nAs outras foram com o noivo,\nentraram, e a porta fechou.\nA festa começou logo\ne a turma, sem luz, sobrou.\n\n5- As cinco, quando chegaram,\nbateram, pedindo entrada.\nO noivo não quis conversa\ncom aquela turma atrasada,\ndisse que nem conhecia\nas cinco que estavam fora.\nPrecisa estar preparado,\npois ninguém sabe da hora!"
+    },
+    {
+      "numero": 108,
+      "titulo": "DIZEI AOS CATIVOS",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "**Dizei aos cativos: \"Saí!\"\nAos que 'stão nas trevas: \"Vinde à luz!\"\nCaminhemos para as fontes,\né o Senhor quem nos conduz!** (Bis)\n\n1- Foi no tempo favorável\nque eu te ouvi, te escutei,\nno dia da salvação socorri-te e ajudei.\nE assim te guardarei, te farei mediador\nd'Aliança com o povo,\nserás seu Libertador!\n\n2- Não terão mais fome e sede,\nnem o sol os queimará,\no Senhor se compadece,\nqual pastor os guiará...\nPelos montes, pelos vales\npassarão minhas estradas,\ne virão de toda parte\ne encontrarão pousada!\n\n3- Céus e terra, alegrai-vos,\nanimai-vos e cantai;\no Senhor nos consolou,\ndos aflitos se lembrou!\nPoderia uma mulher\nde seu filho se esquecer?...\nInda que isso acontecesse,\nnunca iria te perder!"
+    },
+    {
+      "numero": 109,
+      "titulo": "AO SENHOR DOS SENHORES...",
+      "autor": "João Carlos Ribeiro",
+      "categoria": "Advento",
+      "letra": "1- Ao Senhor dos Senhores cantai,\nao Senhor, Deus dos deuses, louvai!\nMaravilhas só Ele é quem faz,\nbom é Deus, ao Senhor, pois, louvai!\n\nCom saber Ele fez terra e céu,\nsobre as águas a terra firmou;\npara o dia reger fez o sol\ne as estrelas pra noite criou.\n\n**Pois eterno é seu amor por nós,\neterno é seu amor!** (Bis)\n\n2- Primogênitos todos feriu,\ndo Egito, um povo opressor,\ne daí Israel fez sair:\no poder de sua mão o salvou.\n\nNo mar bravo Ele fez perecer\nos soldados do rei Faraó;\naliança Ele fez com Israel,\nno deserto seu povo guiou.\n\n3- Poderosos sem dó abateu,\na famosos reis desbaratou;\nsua terra Israel recebeu,\ncomo herança a seu povo entregou.\n\nSe lembrou de nós na humilhação,\nao Senhor, Salvador, proclamai,\ndele nós recebemos o pão:\nao Senhor, Deus do céu, celebrai!"
+    },
+    {
+      "numero": 110,
+      "titulo": "VEM, VEM, SENHOR JESUS, VEM",
+      "autor": "Pe. Geraldo L. Bastos",
+      "categoria": "Advento",
+      "letra": "**Vem, vem, Senhor Jesus, vem,\nvem, vem, amado Senhor!** (Bis)\n\n1- Vem nos libertar, vem nos salvar,\na injustiça é grande, o inimigo é forte,\nvem, vencedor da morte!\n\n2- Corre, bem depressa, vem nos ajudar.\nO dia passou, a noite escurece,\nfica sempre com a gente."
+    },
+    {
+      "numero": 111,
+      "titulo": "POVO QUE GEME",
+      "autor": "Afro-Americano - Adaptação",
+      "categoria": "Advento",
+      "letra": "1- Povo que geme de tanta dor\n**vem para nos salvar.**\nA Deus levanta seu clamor,\n**vem para nos salvar.**\n**Ouve, ó Deus, o grito do teu povo,\ntraz a paz,** (Bis) **vem para nos salvar.**\n\n2- O povo está escravizado,\n**vem para nos salvar.**\nO povo clama liberdade,\n**vem para nos salvar.**\n\n3- O povo começa a caminhar,\n**vem para nos salvar.**\nVencida está a opressão.\n**Vem para nos salvar.**"
+    },
+    {
+      "numero": 112,
+      "titulo": "TODO POVO SOFREDOR",
+      "autor": "João Carlos Ribeiro",
+      "categoria": "Advento",
+      "letra": "**Todo povo sofredor** (Bis)\n**o seu pranto esquecerá,** (Bis)\n**pois o que plantar na dor,** (Bis)\n**na alegria colherá!** (Bis)\n\n1-Retornar do cativeiro,\nfez-se sonho verdadeiro,\nsonho de libertação.\nAo voltarem os exilados,\nDeus trazendo os deportados\nlibertados pra Sião!\n\n2-Nós ficamos tão felizes,\nnossa boca foi sorrisos,\nnossos lábios só canções.\nNós vibramos de alegria:\n\"O Senhor fez maravilhas\",\npublicaram as nações.\n\n3- Ó Senhor, Deus poderoso,\nnão esqueçais o vosso povo\na sofrer na escravidão!\nNos livrai do cativeiro,\nqual chuvada de janeiro,\nalagando o sertão!\n\n4- Semeando na agonia,\nespalhando cada dia\na semente do amanhã,\na colheita é uma alegria,\nmuito canto e euforia:\né fartura, é Canaã"
+    },
+    {
+      "numero": 113,
+      "titulo": "VINDE DE NOVO, SENHOR",
+      "autor": "",
+      "categoria": "Advento",
+      "letra": "1- Vinde de novo, Senhor,\nvinde nascer entre os homens;\npois onde nasce o amor,\ncolhe-se pão para a fome.\n\n2- Vinde, acender as estrelas,\nque o egoísmo apagou;\nvinde, plantar a esperança\nnos campos onde secou.\n\n3- Vinde depor os soberbos\nnos tronos seus instalados,\nvinde exaltar os humildes,\nhá tanto tempo humilhados.\n\n4- Vinde, juntar os irmãos\nem torno à mesma fogueira\ne derrubar as barreiras\npara unir nossas mãos."
+    },
+    {
+      "numero": 114,
+      "titulo": "ESCUTA, MEU AMIGO",
+      "autor": "Pe. Geraldo L. Bastos",
+      "categoria": "Advento",
+      "letra": "1- Escuta, meu amigo\ne presta bem atenção. (Bis)\nA paz está contigo,\ndentro do teu coração; (Bis)\ndepende só de ti fazer a plantação. (Bis)\n\n2- A paz ao mundo veio\npor meio de Maria, (Bis)\nque trouxe no seu seio\no rebento da alegria, (Bis)\nEmanuel,\nDeus no meio do povo que sofria. (Bis)\n\n3- A paz ao mundo veio\ne o mundo não aceitou. (Bis)\nO Cristo veio à terra\ne seu povo o rejeitou (Bis)\ne preferiu a guerra, a fome e o horror. (Bis)\n\n4- Se a paz tu desejares\nnão esqueça jamais: (Bis)\nrenega o ódio e o erro,\nque a injustiça faz (Bis)\nE aceita o Emanuel, o Príncipe da paz. (Bis)"
+    },
+    {
+      "numero": 115,
+      "titulo": "O SERTÃO SECO",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "1- O sertão seco pela chuva a suspirar,\nos oprimidos geme o peito em oração,\n\"vem, ó Senhor, nos libertar, não tardes mais,\njunte esse povo e realize a promissão!\"\n\n**A vem, lá vem,\njá se aproxima a redenção!** (Bis)\n\n2- A terra presa nas mãos de tão pouca gente,\nos desterrados é imensa a multidão,\ntomando rumo sem destino nas estradas,\ntêm fome de justiça, terra e pão!\n\n3- A cana verde nada tem de esperança,\nteu povo humilde cansa de lutar em vão;\nmãos calejadas, geme o velho e a criança,\nQuando será o dia da libertação?...\n\n4- U'a Margarida foi pisada em pleno campo,\npela botina do devastador patrão,\nregada em sangue e suor braço preto,\nbem mais florida a descer a estação!\n\n5- Os capatazes nos açoitam com olhares\ne nos arrancam desumana produção,\nse alonga a hora,\nmas se encurtam os meus ganhares,\no operário é demais a servidão.\n\n6- O desemprego, a fome rondam na cidade,\ndos miseráveis é sem fim a procissão;\nquantas crianças pela rua abandonadas,\nsua revolta sobre em meu coração.\n\n7- Um Santo Dia já raiou pro operário,\nvencido e mole, sai às praças e o galão,\né um só grito por emprego e salário,\na bala fere, mas o grito permanece.\n\n8- A voz do anjo sussurrou nos teus ouvidos:\n\"Ave Maria, serás mãe da Salvação!\"\nMaria-Igreja, vai dizer aos oprimidos,\nque a terra nova já se encontra em gestação.\n\n9- Dos encurvados as cabeças se levantam,\ndos explorados unem-se as cansadas mãos\ne os gemidos vão virando um forte canto,\no pobre unido é sinal de Redenção."
+    },
+    {
+      "numero": 116,
+      "titulo": "PREPARO ESTA MESA",
+      "autor": "Pe. Jocy Rodrigues",
+      "categoria": "Advento",
+      "letra": "1- Preparo esta mesa do povo cristão, (Bis)\ncantando, apresento o vinho e o pão. (Bis)\nPreparo minha casa: Jesus vai chegar! (Bis)\nVou ver o que falta na vida do lar. (Bis)\n\n2- Preparo minha rua, mostrando alegria, (Bis)\nvou ser bom vizinho de noite e de dia. (Bis)\nPreparo meu bairro e a minha cidade, (Bis)\nmostrando na vida minha caridade. (Bis)\n\n3- Preparo este mundo pra ser de Jesus, (Bis)\nvivendo a justiça da qual vem a luz. (Bis)\nPreparo, também, o meu coração, (Bis)\nJesus sempre chega em qualquer irmão. (Bis)"
+    },
+    {
+      "numero": 117,
+      "titulo": "BOCA DE POVO",
+      "autor": "Mus.: Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "**Boca de povo - povo! Gritando novo - novo!\nSenhor Deus mandou dizer:** (Bis)\n\n1- Eu vou criar um novo céu e nova terra,\npois, o que passou, passou.\nAs misérias suportadas\njá não mais serão lembradas.\nTodo mundo a se alegrar,\ncom o que eu vou criar!\n\n2- Eu vou tornar Jerusalém uma alegria,\ntodo o povo a sorrir!\nNa cidade eu vou vibrar,\nvendo o povo a se alegrar.\nJá não mais se ouvirá\nchoro, nem lamentação!\n\n3- Que já não mais as criancinhas pequeninas\nmorrerão, sem se criar!\nNinguém mais vai falecer,\ntoda vida vai viver.\nCom cem anos, um menino,\nmorrer antes, mau destino!\n\n4- Que os operários, tantas casas construindo,\nterão casa pra morar.\nSeus roçados plantarão,\ndos seus frutos comerão.\nNinguém mais constrói, nem planta,\npra que outro more e coma!"
+    },
+    {
+      "numero": 118,
+      "titulo": "É DOM DE AMOR",
+      "autor": "João de Araújo e Ir. Míria T. Kolling",
+      "categoria": "Advento",
+      "letra": "1- \"Do céu vai descer o Cordeiro!\"\nÉ dom, puro dom, Salvação!\nNo altar do penhor verdadeiro,\ntambém vamos ser oblação.\n\n**Eis, Senhor, a tua vinha\nfrutos mil te traz, Senhor!\nMas, teu povo que caminha,\nmais que fruto, é dom de amor!**\n\n2- Na terra já brota a esperança,\ne a graça de Deus vem dizer:\nque o povo da Nova Aliança\ntambém oferenda vai ser.\n\n3- Irmãos na fé viva, exultantes,\npartilhem o pão sempre mais.\nE campos jamais verdejantes\ntambém já se tornam trigais!"
+    },
+    {
+      "numero": 119,
+      "titulo": "SENHOR, ACEITA NOSSO VINHO...",
+      "autor": "José Acácio Santana",
+      "categoria": "Advento",
+      "letra": "**Senhor, aceita nosso vinho e nosso pão,\nque eles mereçam teu amor e salvação!**\n\n1- Pai eterno, as oferendas do teu povo:\nsua vida colocada em tuas mãos!\nQue por elas venha ao mundo um tempo novo,\nonde todos sejam vistos como irmãos.\n\n2- Tu serás o Bom Pastor a nossa frente,\ndando rumo à caminhada dos irmãos.\nQue teu Reino seja verdadeiramente\nde justiça, de verdade e salvação."
+    },
+    {
+      "numero": 120,
+      "titulo": "ANO A",
+      "autor": "",
+      "categoria": "Refrãos dos Salmos de Resposta",
+      "letra": "1º Domingo Sl 121(121)\nQue alegria, quando ouvi que me disseram:\n\"Vamos à casa do Senhor!\"\n\n2º Domingo Sl 72(71)\nEis que vem o Senhor soberano,\ntendo em suas mãos poder e glória!\n\n3º Domingo Sl 146(145)\nVem, Senhor, nos salvar;\nvem, sem demora, nos dar a paz!\n\n4º Domingo Sl 24(23)\nAbre as portas, deixa entrar o Rei da glória.\nÉ o tempo, ele vem orientar a nossa história!"
+    },
+    {
+      "numero": 121,
+      "titulo": "ANO B",
+      "autor": "",
+      "categoria": "Refrãos dos Salmos de Resposta",
+      "letra": "1º Domingo Sl 89(88)\nIluminai a vossa face sobre nós,\nconvertei-nos para que sejamos salvos.\n\n2º Domingo Sl 85(84)\nMostrai-nos, ó Senhor, vossa bondade\ne a vossa salvação nos concedei!\n\n3º Domingo Lc 1,24\nO Senhor fez por mim maravilhas,\nSanto, Santo é seu nome.\n\n4º Domingo Sl 89(88)\nÓ Senhor eu cantarei o vosso nome,\ndesde agora e para sempre."
+    },
+    {
+      "numero": 122,
+      "titulo": "ANO C",
+      "autor": "",
+      "categoria": "Refrãos dos Salmos de Resposta",
+      "letra": "1º Domingo Sl 25(24)\nVem, Senhor, nos salvar,\nvem, sem demora, nos dar a paz!\n\n2º Domingo Sl 126(125)\nMaravilhas fez conosco o Senhor:\nexultemos de alegria!\n\n3º Domingo Is 12\nExultai, cantando alegres,\nporque é grande em vosso meio\no Deus Santo de Israel!\n\n4º Domingo Sl 80(79)\nIluminai a vossa face sobre nós,\nconvertei-nos para que sejamos salvos."
+    },
+    {
+      "numero": 123,
+      "titulo": "ACLAMAÇÕES AO EVANGELHO",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Advento",
+      "letra": "1ª Semana\n**Aleluia, aleluia!** (Bis)\nVem mostrar-nos, ó Senhor, (Bis)\ntua grande compaixão, (Bis)\ndá-nos tua salvação! (Bis)\n\n2ª Semana\n**Aleluia, Aleluia.** (Bis)\nVoz que clama no deserto:\n\"Preparai-lhe um caminho, (Bis)\numa estrada ao Senhor!\" (Bis)\n\n\"Todo vale aterrado, (Bis)\ntodo monte nivelado (Bis)\ne vereis o Salvador!\" (Bis)\n\n3ª Semana\n**Aleluia, aleluia!** (Bis)\nO Espírito consagrou-me (Bis)\ne mandou-me anunciar (Bis)\nBoa nova para os pobres! (Bis)\n\n4ª Semana\n**Aleluia, aleluia!** (Bis)\nUma virgem conceberá (Bis)\ne um Filho à luz dará: (Bis)\nDeus conosco, Emanuel! (Bis)\n\nEis a serva do Senhor! (Bis)\nQue em mim venha cumprir-se, (Bis)\ntudo quanto me disseste! (Bis)"
+    },
+    {
+      "numero": 124,
+      "titulo": "ALELUIA, Ó SENHOR,...",
+      "autor": "Maria F. Oliveira e Folc. Música Religiosa",
+      "categoria": "Advento",
+      "letra": "**Aleluia, aleluia, aleluia!** (Bis)\n\n1- Ó Senhor, abre os ouvidos\ndo teu povo aqui presente,\npara ouvir a Boa-nova\ne guardá-la fielmente.\n\n2- A palavra, qual semente,\nvai cair nos corações.\nQue sejamos boa terra,\ndando frutos: cem por um."
+    },
+    {
+      "numero": 125,
+      "titulo": "GLÓRIA AO SENHOR",
+      "autor": "Mus.: Reginaldo Veloso e Lindbergh Pires",
+      "categoria": "Natal",
+      "letra": "1- Reis e nações se amotinam e tramam, por quê?\nE vão contra o Senhor e o Messias, por quê?\nDeles se ri e aborrece o Senhor, e ouvirão:\n\"Fui eu quem consagrei o meu Rei em Sião!\"\n\n**Glória ao Senhor, nas alturas sem cessar!\nGlória ao Senhor, terra inteira a cantar!**\n\n2- Vou proclamar o decreto que vem do Senhor,\no que disse o Senhor e dizer me mandou:\n\"Tu és meu Filho, meu Filho, a Ti hoje eu gerei,\nTu me pedes e eu as nações te darei!\"\n\n3- Cetro de ferro nas mãos, as nações regeras,\ncomo um pote de barro as despedaçarás!\nReis e juízes da terra, guiar-vos deixai.\nAo Senhor com temor lhe servi e honrai!\n\n4- Não o irriteis, perdição há de ser sua ira.\nBem feliz é aquele que nele se abriga!\nGlória ao Pai pelo Filho, no Espírito-Amor,\nos teus filhos e filhas te cantam louvor!"
+    },
+    {
+      "numero": 126,
+      "titulo": "NASCEU-NOS HOJE...",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Natal",
+      "letra": "**Nasceu-nos hoje um menino,\ne um Filho nos foi dado,\ngrande é este pequenino,\nRei da paz, será chamado.\nAleluia, aleluia, aleluia, aleluia!** (Bis)\n\n1-Cantai, cantai ao Senhor\num canto novo, um louvor!\nPor maravilha tão grande,\n**um canto novo, um louvor!**\nPor tal vitória e poder,\n**um canto novo, um louvor!**\nPor um amor tão fiel,\n**um canto novo, um louvor!**\n\n2-A salvação resplandeceu,\n**um canto novo, um louvor!**\nJustiça apareceu,\n**um canto novo, um louvor!**\nToda a terra contemplou,\n**um canto novo, um louvor!**\nCom alegria aplaudi,\n**um canto novo, um louvor!**\n\n3-Clarins, violões, tocai,\n**um canto novo, um louvor!**\nAo Rei Senhor aclamai,\n**um canto novo, um louvor!**\nO mar e todo o universo,\n**um canto novo, um louvor!**\nNa presença do Senhor,\n**um canto novo, um louvor!**\n\n4-Ao justo juiz que vem,\n**um canto novo, um louvor!**\nPor todo o sempre, amém,\n**um canto novo, um louvor!**\nGlória ao Pai, por seu Filho,\n**um canto novo, um louvor!**\nA quem no Espírito vem,\n**um canto novo, um louvor!**\n\nRefrão 2 (Tempo da Páscoa)\n**É páscoa hoje, minha gente,\npois Jesus ressuscitou,\nvida nova vem trazendo,\nquem da morte triunfou!\nAleluia, aleluia, aleluia, aleluia!** (Bis)\n\nRefrão 3 (Tempo Comum)\n**O povo todo está em festa,\na vitória aconteceu,\na justiça que não falha,\nvem dos pobres, vem de Deus,\naleluia, aleluia, aleluia, aleluia!** (Bis)"
+    },
+    {
+      "numero": 127,
+      "titulo": "EIS QUE VEIO O SENHOR",
+      "autor": "Fr. Joel Postma",
+      "categoria": "Natal",
+      "letra": "**Eis que veio o Senhor dos senhores.\nEm suas mãos o poder e a realeza.** (Bis)\n\n1- Dai ao Rei vossos poderes, Senhor Deus,\nvossa justiça ao descendente da realeza!\nCom justiça ele governe o vosso povo,\ncom equidade ele julgue os vossos pobres.\n\n2- Libertará o indigente que suplica,\ne o pobre ao qual ninguém quer ajudar.\nTodos os povos serão nele abençoados,\ntodas as gentes cantarão o seu louvor!\n\n3- Glória ao Pai e ao Filho e ao Santo Espírito:\nComo era no princípio, agora e sempre."
+    },
+    {
+      "numero": 128,
+      "titulo": "O QUE ERA NOITE",
+      "autor": "Zé Vicente",
+      "categoria": "Natal",
+      "letra": "**O que era noite tornou-se dia,\no que era trevas resplandeceu,\no que era morte tornou-se vida,\nporque há um Deus que hoje nasceu!**\n\n1- Sobre a terra pesa a noite,\nsobre os pobres pesa a opressão,\nsobre os braços dos pequeninos,\nJesus, Deus menino, traz a redenção.\nHá mulher pequena e pobre,\nrespondendo sim ao amor,\nhá um homem buscando guarida,\nna terra ferida, nasce o Salvador!\n\n2- Há pastores pelos campos,\nhá esperança ainda no ar.\nPaz ao povo de boa vontade,\njustiça e verdade sem fim vão reinar!\nCaminheiros vêm de longe.\nUma estrela vem do céu.\nConfundindo a reis e tiranos,\nSe cumprem os planos benditos de Deus!\n\n3- Entre o campo e a cidade.\nEntre a noite e o alvorecer.\nCantam o galo, os anjos e o povo,\nDeus, menino-novo pra nós quis nascer!\nAleluia! Aleluia! (Bis)"
+    },
+    {
+      "numero": 129,
+      "titulo": "DA CEPA BROTOU A RAMA",
+      "autor": "Mus.: Reginaldo Veloso",
+      "categoria": "Natal",
+      "letra": "**Da cepa brotou a rama,\nda rama brotou a flor,\nda flor nasceu Maria,\nde Maria, o Salvador.**\n\n1- O Espírito de Deus sobre ele pousará,\nde saber, de entendimento\neste Espírito será.\nDe conselho e fortaleza,\nde ciência e de temor,\nachará a alegria, no temor do seu Senhor.\n\n2- Não será pela ilusão do olhar, do ouvir dizer,\nque ele irá julgar os homens,\ncomo é praxe acontecer...\nMas os pobres desta terra com justiça julgará,\ne dos fracos o direito Ele é quem defenderá.\n\n3- A palavra de sua boca ferirá o violento\ne o sopro de seus lábios\nmatará o avarento...\nA justiça é o cinto que circunda a sua cintura,\ne o manto da lealdade é a sua vestidura.\n\n4- Neste dia, neste dia, o incrível, verdadeiro,\ncoisa que nunca se viu,\nmorar lobo com cordeiro...\nA comer do mesmo pasto\ntigre, boi, burro e leão,\npor um menino guiados se confraternizarão.\n\n5- Um menino, uma criança\ncom as feras a brincar\ne nenhum mal, nenhum dano\nmais na terra se fará...\nDa ciência do Senhor,\ncheio o mundo estará,\ncomo o sol inunda a terra\ne as águas enchem o mar.\n\n6- Neste dia, neste dia, o Senhor estenderá\nsua mão libertadora\npra seu Povo resgatar...\nEstandarte para os povos\no Senhor levantará,\na seu povo, a sua Igreja\ntoda a terra acorrerá.\n\n7- A inveja, a opressão entre irmãos se acabará,\ne a comunhão de todos o inimigo vencerá.\nPoderosa mão de Deus\nfez o Egito o mar secar;\npara o resto do seu povo\num caminho abrirá."
+    },
+    {
+      "numero": 130,
+      "titulo": "VIMOS SUA ESTRELA NO ORIENTE",
+      "autor": "Pe. Geraldo L. Bastos",
+      "categoria": "Natal",
+      "letra": "**Vimos sua estrela no Oriente\ne viemos adorar o Rei da gente.**\n\n1- Onde foi que nasceu\no Rei dos Judeus?\n\n2- Em Belém da Judéia,\nconforme diz Miquéias.\n\n3- No lugar da estrebaria,\nse deteve a estrela guia.\n\n4- Encontraram com alegria\no menino com Maria.\n\n5- E abrindo os seus tesouros,\nderam incenso, mirra e ouro.\n\n6- Glória ao Pai e ao Menino\ne ao Espírito Divino."
+    },
+    {
+      "numero": 131,
+      "titulo": "HINO AO VERBO DE DEUS",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Natal",
+      "letra": "**A luz resplandeceu em plena escuridão,\njamais irão as trevas vencer o seu clarão!**\n\n1-De tudo existe um começo\ne no começo de tudo\nera o Verbo, sim, o Verbo,\npelo qual existe tudo!\n\nVoltado pra Deus estava,\no Verbo que era Deus,\ne nada de quanto existe\nsem Ele apareceu.\n\nÉ nele que estava a vida,\na vida que é luz dos homens,\na luz nas trevas resplende,\ne as trevas não compreendem.\n\n2-Um homem por Deus mandado,\nseu nome era João,\nveio a luz testemunhar\npro mundo acreditar...\n\nJoão, ele não era a luz,\nveio a luz testemunhar;\nluz verdadeira era o Verbo,\nque veio ao mundo brilhar.\nA iluminar todo homem,\no Verbo estava no mundo,\npor quem o mundo existia,\nmas não o reconhecia.\n\n3-Veio ao que lhe pertencia,\nmas os seus não o acolheram,\nporém, quem o recebia,\nos que no seu nome creram,\n\nfilhos de Deus se tornaram,\no Verbo deu tal poder!\nE assim nasceram de Deus\ne não de humano querer!\n\nO Verbo, então, fez-se carne,\nveio entre nós acampar,\ne sua glória nós vimos,\nglória que seu Pai lhe da.\n\n4-Único Filho do Pai,\nde graça e liberdade pleno,\nde sua imensa riqueza,\ngraças sem fim, recebemos.\n\nQuem deu a lei foi Moisés,\nporém, a graça e a verdade,\nsomente, por Jesus Cristo\nchegam à realidade!\n\nNinguém jamais viu a Deus;\no Filho único, então,\nque está no seio do Pai,\nnos fez a revelação."
+    },
+    {
+      "numero": 132,
+      "titulo": "O CÂNTICO DE SIMEÃO",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Natal",
+      "letra": "1-Agora, Senhor, podes deixar\npartir em paz teu servidor,\nporque os meus olhos já contemplam,\nda salvação, o resplendor!\n\nSegundo a tua Palavra,\nvi a tua salvação;\nmanda em paz teu servidor,\nno fulgor do teu clarão!\n\n2-Pra todos os povos preparaste\na salvação que resplandeceu,\na luz que ilumina as nações todas,\na glória deste povo teu!\n\nO Espírito de Deus conduzia Simeão,\nem seus braços recebeu\nde Deus a consolação!\n\n3- Pra muitos será este Menino\nrazão de queda e elevação,\nsinal entre o povo, discutido,\nsinal, pois, de contradição!\n\nPai e Mãe maravilhados\nSimeão abençoou;\na Maria, inspirado\npelo céu profetizou.\n\n4- \"De dor uma espada afiada\ntranspassará teu coração;\nde muitas pessoas os segredos\nassim se manifestarão!\"\n\nGlória ao Pai, glória ao Menino,\nDeus que veio e Deus que vem;\nglória seja ao Divino,\nque nos guarde sempre. Amém!"
+    },
+    {
+      "numero": 133,
+      "titulo": "O CÂNTICO DE ZACARIAS",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Natal",
+      "letra": "**Bendito seja o Senhor Deus de Israel,\nbendito seja o Deus do povo eleito,\nbendito seja Deus!** (3x)\n\n1- Bendito seja o Senhor Deus de Israel,\npois ele visitou seu povo e o libertou.\nE fez pra nos surgir, da raça de Davi,\num forte poderoso e grande Salvador!\n\nConforme Ele mesmo anunciou\nPor seus santos amigos,\nprofetas tão antigos:\nQue vai nos libertar de quem nos odiar.\nDas mãos de todos que\nsão nossos inimigos!\nBendito seja!\n\n2-Misericórdia fez a nossos pais,\ne teve assim lembrança da santa aliança,\naquela promissão, jurada a Abraão,\nde, um dia, conceder a nós esta esperança.\n\nDe, enfim, libertos de malvadas mãos,\na gente, sem temor, viver no seu amor,\nservindo na justiça, toda a nossa vida,\ne santos na presença de nosso Senhor.\nBendito seja!\n\n3- E tu, menino, do alto Deus profeta,\na frente dele irás, caminhos abrirás;\ndo povo a salvação, das culpas o perdão,\npor seu imenso amor, tu anunciarás!\n\nNasceu pra nós o sol do nosso Deus,\ndo céu veio um clarão\npra quem, na escuridão,\nnas trevas quem dormia,\nrecebeu um guia\ne no caminh' da paz os nossos passos vão!\nBendito seja!"
+    },
+    {
+      "numero": 134,
+      "titulo": "CÂNTICO DE MARIA",
+      "autor": "Reginaldo Veloso",
+      "categoria": "Natal",
+      "letra": "**A minh' alma engrandece o Senhor,\nmeu coração muito se alegrou,\nem Deus, meu Salvador!** (Bis)\n\n1- Ele voltou seu olhar\npara a pequenez de sua servidora\ne todas as gerações\nme proclamarão feliz e ditosa!\n\n2-Ele que é todo poder\nme fez grandes coisas, santo é seu nome!\nSua bondade se estende\nde pais a filhos sobre os que o temem!\n\n3-Ele agiu com braço forte\ne os cheios de orgulho ele dispersou!\nBotou abaixo os potentes,\nhumildes, pequenos, ele elevou!\n\n4-Ele enricou os famintos\ne os ricos, sem nada, embora mandou!\nEle a seu povo acudiu,\nde sua promessa aos pais se lembrou!\n\n5-Ele aliou-se a Abraão\ne a seus descendentes, sem fim, também!\nGlória ao Pai por seu Filho,\nno Espírito Santo, pra sempre. Amém!\n\nRefrão 2 (Advento)\nUma virgem irá conceber,\ndará à luz e um Filho terá!\nseu nome Emanuel, conosço Deus do Céu!\n\nRefrão 3 (Advento)\nÓ José, não precisas temer,\nMaria vai ver um filho nascer,\n\"Jesus\" Tu o chamarás; seu povo salvará!\n\nRefrão 4 (Advento)\n\"Eis-me aqui, serva sou do Senhor,\ncumpra-se em mim tua santa Palavra!\"\nÉs mãe do teu Salvador, és mãe do Salvador!\n\nRefrão 5 (ofícios da Virgem Maria)\nÉs feliz, santa Virgem Maria,\nporque tu creste e se realizou.\nPalavra do Senhor, Palavra do Senhor!"
+    },
+    {
+      "numero": 135,
+      "titulo": "VEM, MEU IRMÃO",
+      "autor": "",
+      "categoria": "Natal",
+      "letra": "**Vem, meu irmão, vem festejar\no Natal do nosso povo\nonde Jesus vai chegar!** (Bis)\n\n1-Jesus quis nascer nos pobres,\nescolheu Belém sem nobres\nlá prás bandas de Judá...\nNão teve nem moradia,\nsua morada terrena\nfoi na gruta bem pequena\nque Jesus quis começar...\n\n2-Os que juntam em celeiros\npoder, fama e dinheiro\nque repartam esses bens.\nJesus nasce no oprimido\nprá verdade e prá justiça,\ncontra a força e a cobiça\nnasce entre os que não têm.\n\n3-Se Jesus nascesse agora\npra consolo de quem chora,\nnasceria lutador.\nJesus ia nascer índio,\noperário ou favelado,\ntrombadinha, cortiçado,\nseringueiro ou lavrador.\n\n4-E Jesus sabe da vida,\nda pobreza tão sofrida\nque o povo vive, ainda.\nFoi sabendo o valor\nque do pão do operário\nJesus fez o seu Sacrário,\nsua Carne que dá vida."
+    }
+  ]
+}

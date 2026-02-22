@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:liturgia_diaria/pages/homepage.dart';
 import 'package:liturgia_diaria/pages/liturgia.dart';
+import 'package:liturgia_diaria/pages/oracoes.dart';
+import 'package:liturgia_diaria/pages/cancoes.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});
@@ -55,15 +57,27 @@ class MyDrawer extends StatelessWidget {
                 title: const Text('Canções'),
                 onTap: () {
                   Navigator.pop(context);
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const CancoesPage(),
+                    ),
+                  );
                 },
               ),
             ),
             Card(
               child: ListTile(
                 leading: const Icon(FontAwesomeIcons.calendarDays),
-                title: const Text('Oração do Dia'),
+                title: const Text('Orações do Dia'),
                 onTap: () {
                   Navigator.pop(context);
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const Oracoes(),
+                    ),
+                  );
                 },
               ),
             ),
