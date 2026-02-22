@@ -5,7 +5,7 @@ import 'package:liturgia_diaria/services/liturgia_api_service.dart';
 import 'package:liturgia_diaria/services/noticia_diocese_service.dart';
 import 'package:liturgia_diaria/models/liturgia_model.dart';
 import 'package:liturgia_diaria/models/noticia_model.dart';
-import 'package:liturgia_diaria/pages/noticia_detalhe.dart';
+import 'package:liturgia_diaria/pages/webview_page.dart';
 import 'package:liturgia_diaria/widgets/fade_slide_animation.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 
@@ -262,7 +262,10 @@ class _HomePageState extends State<HomePage> {
           Navigator.push(
             context,
             MaterialPageRoute(
-              builder: (context) => NoticiaDetalhePage(noticia: noticia),
+              builder: (context) => WebViewPage(
+                url: noticia.link,
+                titulo: noticia.titulo,
+              ),
             ),
           );
         },
