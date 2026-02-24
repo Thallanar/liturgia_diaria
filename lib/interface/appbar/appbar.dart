@@ -16,19 +16,39 @@ AppBar customAppBar(BuildContext context, String title, {bool haveDrawer = true}
             ),
           )
         : null,
-    title: Center(
-      child: Text(
-        title,
-        style: TextStyle(
-          color:
-              MediaQuery.of(context).platformBrightness == Brightness.dark
-                  ? Colors.black
-                  : Colors.white,
-          fontFamily: 'StoryScript',
-          fontWeight: FontWeight.bold
-        ),
+    centerTitle: true,
+    title: Text(
+      title,
+      style: TextStyle(
+        color:
+            MediaQuery.of(context).platformBrightness == Brightness.dark
+                ? Colors.black
+                : Colors.white,
+        fontFamily: 'StoryScript',
+        fontWeight: FontWeight.bold,
       ),
     ),
+    actions: [
+      PopupMenuButton<String>(
+        icon: Icon(
+          Icons.more_vert,
+          color: MediaQuery.of(context).platformBrightness == Brightness.dark
+              ? Colors.black
+              : Colors.white,
+        ),
+        onSelected: (value) {
+          if (value == 'sobre') {
+            Navigator.pushNamed(context, '/sobre');
+          }
+        },
+        itemBuilder: (context) => const [
+          PopupMenuItem(
+            value: 'sobre',
+            child: Text('Sobre'),
+          ),
+        ],
+      ),
+    ],
     backgroundColor:
         MediaQuery.of(context).platformBrightness == Brightness.dark
             ? Colors.blue[200]
