@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:liturgia_diaria/pages/homepage.dart';
+import 'package:liturgia_diaria/pages/sobre.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,6 +19,9 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData.dark(),
       theme: ThemeData.light(),
       home: const HomePage(),
+      routes: {
+        '/sobre': (context) => const SobrePage(),
+      },
     );
   }
 }
